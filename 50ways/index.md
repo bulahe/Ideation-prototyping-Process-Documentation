@@ -17,7 +17,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Write your museum reference notes here. -->
-
+I found this original sign at the Center for Brooklyn History in Brooklyn Heights. It was made for the Brooklyn Bridge’s centennial celebration in 1983 and became the starting point for my 50 interpretations.
 
 
 </div>
@@ -35,7 +35,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 01. -->
-
+I implemented the first one by sketching with hands using pencil
 
 
 </div>
@@ -53,7 +53,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 02. -->
-
+Colored version
 
 
 </div>
@@ -71,7 +71,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 03. -->
-
+Canva version
 
 
 </div>
@@ -89,7 +89,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 04. -->
-
+When I was drawing the two arches of the Brooklyn Bridge, I found that the shape of it is similar with a slice of toast.
 
 
 </div>
@@ -114,7 +114,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 05. -->
-
+I recreated the sign in Logic Pro using MIDI notes, turning its visual elements into sound.
 
 
 </div>
@@ -132,7 +132,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 06. -->
-
+Using forks and charing cables to represent the shape of Brooklyn Bridge
 
 
 </div>
@@ -150,7 +150,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 07. -->
-
+Canva version - changed font
 
 
 </div>
@@ -168,7 +168,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 08. -->
-
+The two arches reminded me of the McDonald’s logo.
 
 
 </div>
@@ -204,7 +204,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 10. -->
-
+Drawing the Brooklyn Bridge in one continuous line without lifting the pen.
 
 
 </div>
@@ -222,7 +222,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 11. -->
-
+Drawing the Brooklyn Bridge with only dots.
 
 
 </div>
@@ -240,7 +240,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 12. -->
-
+Drawing on mop pad.
 
 
 </div>
@@ -258,7 +258,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 13. -->
-
+Hand-drawn Brooklyn Bridge another view 3D.
 
 
 </div>
@@ -276,7 +276,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 14. -->
-
+3D Brooklyn Bridge made by paper.
 
 
 </div>
@@ -294,7 +294,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 15. -->
-
+Then I started to think which else can I explore. So I tried augmented reality.
 
 
 </div>
@@ -348,7 +348,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 18. -->
-
+Wanting to use pants to represents the two arches, guess I failed.
 
 
 </div>
@@ -366,7 +366,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 19. -->
-
+pants plan in 2d kinda work!
 
 
 </div>
@@ -384,7 +384,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 20. -->
-
+The original sign replicated in txt file!
 
 
 </div>
@@ -407,7 +407,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 21. -->
-
+Out of idea now, so I went to the physical Brooklyn Bridge for inspiration. The sound of the Brooklyn Bridge.
 
 
 </div>
@@ -425,7 +425,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 22. -->
-
+AR Brooklyn Bridge across the road.
 
 
 </div>
@@ -443,7 +443,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 23. -->
-
+Brooklyn Bridge sign on the actual road
 
 
 </div>
@@ -497,7 +497,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 26. -->
-
+The Brooklyn Bridge wasn’t closed, but I did find something locked.
 
 
 </div>
@@ -515,7 +515,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 27. -->
-
+The original sign viewed in AR
 
 
 </div>
@@ -533,7 +533,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 28. -->
-
+AR 3D drawing recreated the sign
 
 
 </div>
@@ -569,7 +569,7 @@ title: 50 Ways of Seeing
 
 
 <!-- Replace the placeholder below with your notes for work 30. -->
-
+AR 3D drawing recreated the Brooklyn bridge
 
 
 </div>

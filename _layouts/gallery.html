@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title | escape }}</title>
-  <link rel="stylesheet" href="{{ '/50ways/gallery.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/50ways/gallery.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 </head>
 <body id="top">
   <nav class="topbar" aria-label="Main navigation"><a href="{{ '/' | relative_url }}">Process journal</a><span>50 Ways of Seeing</span><a href="#original">01—30 ↓</a></nav>

@@ -30,7 +30,7 @@ footer { max-width: 1000px; margin: 0 auto; padding: 40px 24px 70px; display: fl
 /* Quiet, book-like captions; empty captions take no space. */
 .intro { padding: 48px 0 40px; }
 h1 { font-size: clamp(36px, 6vw, 64px); letter-spacing: -.04em; margin: 0; line-height: 1.15; }
-.notes { min-height: 0; padding: 0; border: 0; margin: 14px auto 0; font-size: 13px; line-height: 1.65; color: #77786f; }
+.notes { min-height: 0; padding: 0; border: 0; margin: 14px auto 0; font-size: 13px; line-height: 1.65; color: #77786f; text-align: center; }
 .notes:not(:has(p, ul, ol, blockquote)) { display: none; }
 .work { padding-bottom: 48px; }
 
