@@ -24,6 +24,7 @@ I found this original sign at the Center for Brooklyn History in Brooklyn Height
 
 </section>
 
+<!-- WORK 01 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-01" markdown="1">
 
 <div class="work-label"><h2>01 <span>/ 50</span></h2></div>
@@ -42,6 +43,7 @@ I implemented the first one by sketching with hands using pencil
 
 </section>
 
+<!-- WORK 02 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-02" markdown="1">
 
 <div class="work-label"><h2>02 <span>/ 50</span></h2></div>
@@ -60,6 +62,7 @@ Colored version
 
 </section>
 
+<!-- WORK 03 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-03" markdown="1">
 
 <div class="work-label"><h2>03 <span>/ 50</span></h2></div>
@@ -78,6 +81,7 @@ Canva version
 
 </section>
 
+<!-- WORK 04 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-04" markdown="1">
 
 <div class="work-label"><h2>04 <span>/ 50</span></h2></div>
@@ -96,6 +100,7 @@ When I was drawing the two arches of the Brooklyn Bridge, I found that the shape
 
 </section>
 
+<!-- WORK 05 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-05" markdown="1">
 
 <div class="work-label"><h2>05 <span>/ 50</span></h2></div>
@@ -121,6 +126,7 @@ I recreated the sign in Logic Pro using MIDI notes, turning its visual elements 
 
 </section>
 
+<!-- WORK 06 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-06" markdown="1">
 
 <div class="work-label"><h2>06 <span>/ 50</span></h2></div>
@@ -139,6 +145,7 @@ Using forks and charing cables to represent the shape of Brooklyn Bridge
 
 </section>
 
+<!-- WORK 07 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-07" markdown="1">
 
 <div class="work-label"><h2>07 <span>/ 50</span></h2></div>
@@ -157,6 +164,7 @@ Canva version - changed font
 
 </section>
 
+<!-- WORK 08 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-08" markdown="1">
 
 <div class="work-label"><h2>08 <span>/ 50</span></h2></div>
@@ -175,6 +183,7 @@ The two arches reminded me of the McDonald’s logo.
 
 </section>
 
+<!-- WORK 09 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-09" markdown="1">
 
 <div class="work-label"><h2>09 <span>/ 50</span></h2></div>
@@ -193,6 +202,7 @@ The two arches reminded me of the McDonald’s logo.
 
 </section>
 
+<!-- WORK 10 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-10" markdown="1">
 
 <div class="work-label"><h2>10 <span>/ 50</span></h2></div>
@@ -211,6 +221,7 @@ Drawing the Brooklyn Bridge in one continuous line without lifting the pen.
 
 </section>
 
+<!-- WORK 11 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-11" markdown="1">
 
 <div class="work-label"><h2>11 <span>/ 50</span></h2></div>
@@ -229,6 +240,7 @@ Drawing the Brooklyn Bridge with only dots.
 
 </section>
 
+<!-- WORK 12 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-12" markdown="1">
 
 <div class="work-label"><h2>12 <span>/ 50</span></h2></div>
@@ -247,6 +259,7 @@ Drawing on mop pad.
 
 </section>
 
+<!-- WORK 13 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-13" markdown="1">
 
 <div class="work-label"><h2>13 <span>/ 50</span></h2></div>
@@ -265,6 +278,7 @@ Hand-drawn Brooklyn Bridge another view 3D.
 
 </section>
 
+<!-- WORK 14 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-14" markdown="1">
 
 <div class="work-label"><h2>14 <span>/ 50</span></h2></div>
@@ -283,6 +297,7 @@ Hand-drawn Brooklyn Bridge another view 3D.
 
 </section>
 
+<!-- WORK 15 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-15" markdown="1">
 
 <div class="work-label"><h2>15 <span>/ 50</span></h2></div>
@@ -301,6 +316,7 @@ Then I started to think which else can I explore. So I tried augmented reality.
 
 </section>
 
+<!-- WORK 16 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-16" markdown="1">
 
 <div class="work-label"><h2>16 <span>/ 50</span></h2></div>
@@ -319,6 +335,7 @@ Then I started to think which else can I explore. So I tried augmented reality.
 
 </section>
 
+<!-- WORK 17 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-17" markdown="1">
 
 <div class="work-label"><h2>17 <span>/ 50</span></h2></div>
@@ -337,6 +354,7 @@ Then I started to think which else can I explore. So I tried augmented reality.
 
 </section>
 
+<!-- WORK 18 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-18" markdown="1">
 
 <div class="work-label"><h2>18 <span>/ 50</span></h2></div>
@@ -355,6 +373,7 @@ Wanting to use pants to represents the two arches, guess I failed.
 
 </section>
 
+<!-- WORK 19 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-19" markdown="1">
 
 <div class="work-label"><h2>19 <span>/ 50</span></h2></div>
@@ -373,6 +392,7 @@ pants plan in 2d kinda work!
 
 </section>
 
+<!-- WORK 20 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-20" markdown="1">
 
 <div class="work-label"><h2>20 <span>/ 50</span></h2></div>
@@ -391,6 +411,7 @@ The original sign replicated in txt file!
 
 </section>
 
+<!-- WORK 21 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-21" markdown="1">
 
 <div class="work-label"><h2>21 <span>/ 50</span></h2></div>
@@ -414,6 +435,7 @@ Out of idea now, so I went to the physical Brooklyn Bridge for inspiration. The 
 
 </section>
 
+<!-- WORK 22 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-22" markdown="1">
 
 <div class="work-label"><h2>22 <span>/ 50</span></h2></div>
@@ -432,6 +454,7 @@ AR Brooklyn Bridge across the road.
 
 </section>
 
+<!-- WORK 23 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-23" markdown="1">
 
 <div class="work-label"><h2>23 <span>/ 50</span></h2></div>
@@ -450,6 +473,7 @@ Brooklyn Bridge sign on the actual road
 
 </section>
 
+<!-- WORK 24 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-24" markdown="1">
 
 <div class="work-label"><h2>24 <span>/ 50</span></h2></div>
@@ -468,6 +492,7 @@ Brooklyn Bridge sign on the actual road
 
 </section>
 
+<!-- WORK 25 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-25" markdown="1">
 
 <div class="work-label"><h2>25 <span>/ 50</span></h2></div>
@@ -486,6 +511,7 @@ Brooklyn Bridge sign on the actual road
 
 </section>
 
+<!-- WORK 26 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-26" markdown="1">
 
 <div class="work-label"><h2>26 <span>/ 50</span></h2></div>
@@ -504,6 +530,7 @@ The Brooklyn Bridge wasn’t closed, but I did find something locked.
 
 </section>
 
+<!-- WORK 27 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-27" markdown="1">
 
 <div class="work-label"><h2>27 <span>/ 50</span></h2></div>
@@ -522,6 +549,7 @@ The original sign viewed in AR
 
 </section>
 
+<!-- WORK 28 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-28" markdown="1">
 
 <div class="work-label"><h2>28 <span>/ 50</span></h2></div>
@@ -540,6 +568,7 @@ AR 3D drawing recreated the sign
 
 </section>
 
+<!-- WORK 29 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-29" markdown="1">
 
 <div class="work-label"><h2>29 <span>/ 50</span></h2></div>
@@ -558,6 +587,7 @@ AR 3D drawing recreated the sign
 
 </section>
 
+<!-- WORK 30 / 图片或视频放在上方，注释写在 notes 区域内。 -->
 <section class="work" id="work-30" markdown="1">
 
 <div class="work-label"><h2>30 <span>/ 50</span></h2></div>
@@ -570,6 +600,425 @@ AR 3D drawing recreated the sign
 
 <!-- Replace the placeholder below with your notes for work 30. -->
 AR 3D drawing recreated the Brooklyn bridge
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 31 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-31" markdown="1">
+
+<div class="work-label"><h2>31 <span>/ 50</span></h2></div>
+
+<img class="artwork" src="31.jpg" alt="Work 31, image 1" loading="lazy">
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 31 件作品的注释；留空则不显示。 -->
+recreating the Brooklyn Bridge using my electric piano and foldable chairs.
+
+</div>
+
+</section>
+
+
+<!-- WORK 32 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-32" markdown="1">
+
+<div class="work-label"><h2>32 <span>/ 50</span></h2></div>
+
+<img class="artwork" src="32%201.jpg" alt="Work 32, image 1" loading="lazy">
+
+When I was making breakfast, the color of plain omelet reminded me of the sign.
+ 
+<img class="artwork" src="32%202.jpg" alt="Work 32, image 2" loading="lazy">
+
+<img class="artwork" src="32%203.jpg" alt="Work 32, image 3" loading="lazy">
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 32 件作品的注释；留空则不显示。 -->
+BRK BR CLOSED ALL DAY.
+
+</div>
+
+</section>
+
+
+<!-- WORK 33 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-33" markdown="1">
+
+<div class="work-label"><h2>33 <span>/ 50</span></h2></div>
+
+<img class="artwork" src="33%201.jpg" alt="Work 33, image 1" loading="lazy">
+Flipped it over and tried another way to paint with ketchup.
+
+<img class="artwork" src="33%202.jpg" alt="Work 33, image 2" loading="lazy">
+
+<div class="notes" markdown="1">
+
+
+<!-- 在下面空行写第 33 件作品的注释；留空则不显示。 -->
+BRK BR CLOSED FOR BF   (Brooklyn Bridge Closed for Breakfast)
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 34 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-34" markdown="1">
+
+<div class="work-label"><h2>34 <span>/ 50</span></h2></div>
+
+<!-- 上传 34.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="34.jpg" alt="Work 34" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 34 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 34 件作品的注释；留空则不显示。 -->
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 35 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-35" markdown="1">
+
+<div class="work-label"><h2>35 <span>/ 50</span></h2></div>
+
+<!-- 上传 35.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="35.jpg" alt="Work 35" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 35 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 35 件作品的注释；留空则不显示。 -->
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 36 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-36" markdown="1">
+
+<div class="work-label"><h2>36 <span>/ 50</span></h2></div>
+
+<!-- 上传 36.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="36.jpg" alt="Work 36" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 36 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 36 件作品的注释；留空则不显示。 -->
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 37 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-37" markdown="1">
+
+<div class="work-label"><h2>37 <span>/ 50</span></h2></div>
+
+<!-- 上传 37.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="37.jpg" alt="Work 37" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 37 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 37 件作品的注释；留空则不显示。 -->
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 38 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-38" markdown="1">
+
+<div class="work-label"><h2>38 <span>/ 50</span></h2></div>
+
+<!-- 上传 38.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="38.jpg" alt="Work 38" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 38 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 38 件作品的注释；留空则不显示。 -->
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 39 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-39" markdown="1">
+
+<div class="work-label"><h2>39 <span>/ 50</span></h2></div>
+
+<!-- 上传 39.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="39.jpg" alt="Work 39" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 39 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 39 件作品的注释；留空则不显示。 -->
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 40 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-40" markdown="1">
+
+<div class="work-label"><h2>40 <span>/ 50</span></h2></div>
+
+<!-- 上传 40.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="40.jpg" alt="Work 40" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 40 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 40 件作品的注释；留空则不显示。 -->
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 41 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-41" markdown="1">
+
+<div class="work-label"><h2>41 <span>/ 50</span></h2></div>
+
+<!-- 上传 41.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="41.jpg" alt="Work 41" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 41 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 41 件作品的注释；留空则不显示。 -->
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 42 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-42" markdown="1">
+
+<div class="work-label"><h2>42 <span>/ 50</span></h2></div>
+
+<!-- 上传 42.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="42.jpg" alt="Work 42" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 42 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 42 件作品的注释；留空则不显示。 -->
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 43 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-43" markdown="1">
+
+<div class="work-label"><h2>43 <span>/ 50</span></h2></div>
+
+<!-- 上传 43.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="43.jpg" alt="Work 43" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 43 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 43 件作品的注释；留空则不显示。 -->
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 44 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-44" markdown="1">
+
+<div class="work-label"><h2>44 <span>/ 50</span></h2></div>
+
+<!-- 上传 44.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="44.jpg" alt="Work 44" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 44 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 44 件作品的注释；留空则不显示。 -->
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 45 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-45" markdown="1">
+
+<div class="work-label"><h2>45 <span>/ 50</span></h2></div>
+
+<!-- 上传 45.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="45.jpg" alt="Work 45" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 45 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 45 件作品的注释；留空则不显示。 -->
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 46 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-46" markdown="1">
+
+<div class="work-label"><h2>46 <span>/ 50</span></h2></div>
+
+<!-- 上传 46.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="46.jpg" alt="Work 46" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 46 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 46 件作品的注释；留空则不显示。 -->
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 47 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-47" markdown="1">
+
+<div class="work-label"><h2>47 <span>/ 50</span></h2></div>
+
+<!-- 上传 47.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="47.jpg" alt="Work 47" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 47 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 47 件作品的注释；留空则不显示。 -->
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 48 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-48" markdown="1">
+
+<div class="work-label"><h2>48 <span>/ 50</span></h2></div>
+
+<!-- 上传 48.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="48.jpg" alt="Work 48" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 48 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 48 件作品的注释；留空则不显示。 -->
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 49 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-49" markdown="1">
+
+<div class="work-label"><h2>49 <span>/ 50</span></h2></div>
+
+<!-- 上传 49.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="49.jpg" alt="Work 49" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 49 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 49 件作品的注释；留空则不显示。 -->
+
+
+</div>
+
+</section>
+
+
+<!-- WORK 50 / 搜索这个编号即可找到上传和注释位置。 -->
+<section class="work" id="work-50" markdown="1">
+
+<div class="work-label"><h2>50 <span>/ 50</span></h2></div>
+
+<!-- 上传 50.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="50.jpg" alt="Work 50" loading="lazy">
+-->
+
+<div class="work-placeholder" aria-label="Work 50 awaiting upload"></div>
+
+<div class="notes" markdown="1">
+
+<!-- 在下面空行写第 50 件作品的注释；留空则不显示。 -->
 
 
 </div>

@@ -10,3 +10,4 @@ exclude:
   - vendor
   - scripts
   - PREVIEW.md
+  - UPLOAD.md

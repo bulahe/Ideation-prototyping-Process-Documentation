@@ -2,7 +2,7 @@
 
 ## 50 Ways of Seeing
 
-[View the museum reference and works 01–30 →](50ways/)
+[View the museum reference and works 01–50 →](50ways/)
 
 ---
 
