@@ -1,0 +1,38 @@
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: #f8f7f3; color: #262721; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; -webkit-font-smoothing: antialiased; }
+a { color: inherit; text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:focus-visible { outline: 2px solid #626e42; outline-offset: 6px; }
+.topbar { display: flex; justify-content: space-between; gap: 20px; padding: 25px 5vw; border-bottom: 1px solid #deded5; font-size: 12px; letter-spacing: .035em; }
+.topbar > span { color: #707267; }
+main { width: min(100% - 48px, 1000px); margin: auto; }
+.intro { padding: 88px 0 72px; }
+.eyebrow, .work-label, .notes-label { font-size: 11px; letter-spacing: .14em; text-transform: uppercase; }
+.eyebrow { color: #6b705f; }
+h1 { font-family: Georgia, "Times New Roman", serif; font-weight: 400; font-size: clamp(64px, 10vw, 118px); line-height: .98; letter-spacing: -.065em; margin: 30px 0; }
+h1 em { font-weight: 400; color: #606c46; }
+.subtitle { color: #77786f; font-size: 15px; line-height: 1.7; }
+.intro > a { display: inline-block; margin-top: 28px; font-size: 12px; }
+.work { padding: 30px 0 60px; border-top: 1px solid #d9dacf; scroll-margin-top: 24px; }
+.work-label { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 24px; color: #74786b; }
+.work-label h2 { font-size: 24px; font-weight: 400; letter-spacing: -.03em; color: #262721; margin: 0; }
+.work-label h2 span { font-size: 12px; color: #858779; }
+.artwork { display: block; width: auto; height: auto; max-width: 100%; max-height: 76vh; margin: 0 auto 24px; object-fit: contain; }
+video.artwork { width: 100%; background: #171815; }
+.notes { min-height: 130px; max-width: 720px; margin: 28px auto 0; padding-top: 16px; border-top: 1px solid #deded5; font-size: 15px; line-height: 1.8; overflow-wrap: anywhere; }
+.notes-label { color: #7c806f; }
+.notes p { margin: 12px 0; }
+footer { max-width: 1000px; margin: 0 auto; padding: 40px 24px 70px; display: flex; justify-content: space-between; color: #727766; font-size: 13px; }
+@media(max-width: 600px) { .topbar { padding: 20px 24px; } .topbar > span { display: none; } .intro { padding: 58px 0; } .work { padding-bottom: 36px; } .artwork { max-height: 68vh; } .notes { min-height: 110px; } }
+@media(prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+/* Quiet, book-like captions; empty captions take no space. */
+.intro { padding: 48px 0 40px; }
+h1 { font-size: clamp(36px, 6vw, 64px); letter-spacing: -.04em; margin: 0; line-height: 1.15; }
+.notes { min-height: 0; padding: 0; border: 0; margin: 14px auto 0; font-size: 13px; line-height: 1.65; color: #77786f; }
+.notes:not(:has(p, ul, ol, blockquote)) { display: none; }
+.work { padding-bottom: 48px; }
+
+.video-actions { display:flex; gap:20px; align-items:center; justify-content:center; font-size:12px; margin:12px 0 24px; }
+.video-actions button { background:transparent; border:1px solid #bfc1b5; border-radius:3px; padding:8px 14px; color:inherit; cursor:pointer; font:inherit; }

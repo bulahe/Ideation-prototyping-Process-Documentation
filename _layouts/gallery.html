@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }}</title>
+  <link rel="stylesheet" href="{{ '/50ways/gallery.css' | relative_url }}">
+</head>
+<body id="top">
+  <nav class="topbar" aria-label="Main navigation"><a href="{{ '/' | relative_url }}">Process journal</a><span>50 Ways of Seeing</span><a href="#original">01—30 ↓</a></nav>
+  <main>{{ content }}</main>
+  <footer><a href="#top">Back to top ↑</a></footer>
+<script>
+document.querySelectorAll('[data-video]').forEach(button => {
+  const video = document.getElementById(button.dataset.video);
+  const status = button.parentElement.querySelector('[role="status"]');
+  button.addEventListener('click', async () => {
+    if (!video.paused) { video.pause(); return; }
+    try { video.muted = false; await video.play(); status.textContent = ''; }
+    catch (error) { status.textContent = 'Playback failed. Try Open video.'; }
+  });
+  video.addEventListener('play', () => { button.textContent = 'Pause'; });
+  video.addEventListener('pause', () => { button.textContent = 'Play video'; });
+  video.addEventListener('ended', () => { button.textContent = 'Replay'; });
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+title: Ideation & Prototyping
+url: "https://bulahe.github.io"
+baseurl: "/Ideation-prototyping-Process-Documentation"
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-readme-index
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - scripts
+  - PREVIEW.md

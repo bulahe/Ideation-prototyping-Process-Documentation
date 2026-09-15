@@ -1,3 +1,11 @@
+# *Ideation & Prototyping*
+
+## 50 Ways of Seeing
+
+[View the museum reference and works 01–30 →](50ways/)
+
+---
+
 # heading 1
 
 ## Heading 2
