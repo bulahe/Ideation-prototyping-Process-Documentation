@@ -674,16 +674,14 @@ BRK BR CLOSED FOR BF   (Brooklyn Bridge Closed for Breakfast)
 
 <div class="work-label"><h2>34 <span>/ 50</span></h2></div>
 
-<!-- 上传 34.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
-<img class="artwork" src="34.jpg" alt="Work 34" loading="lazy">
--->
+<img class="artwork" src="34.jpg" alt="Work 31, image 1" loading="lazy">
 
 <div class="work-placeholder" aria-label="Work 34 awaiting upload"></div>
 
 <div class="notes" markdown="1">
 
 <!-- 在下面空行写第 34 件作品的注释；留空则不显示。 -->
-
+Closed
 
 </div>
 
@@ -695,16 +693,15 @@ BRK BR CLOSED FOR BF   (Brooklyn Bridge Closed for Breakfast)
 
 <div class="work-label"><h2>35 <span>/ 50</span></h2></div>
 
-<!-- 上传 35.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+
 <img class="artwork" src="35.jpg" alt="Work 35" loading="lazy">
--->
 
 <div class="work-placeholder" aria-label="Work 35 awaiting upload"></div>
 
 <div class="notes" markdown="1">
 
 <!-- 在下面空行写第 35 件作品的注释；留空则不显示。 -->
-
+Opened
 
 </div>
 
@@ -716,16 +713,14 @@ BRK BR CLOSED FOR BF   (Brooklyn Bridge Closed for Breakfast)
 
 <div class="work-label"><h2>36 <span>/ 50</span></h2></div>
 
-<!-- 上传 36.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
-<img class="artwork" src="36.jpg" alt="Work 36" loading="lazy">
--->
+<img class="artwork" src="36.jpeg" alt="Work 36" loading="lazy">
 
 <div class="work-placeholder" aria-label="Work 36 awaiting upload"></div>
 
 <div class="notes" markdown="1">
 
 <!-- 在下面空行写第 36 件作品的注释；留空则不显示。 -->
-
+How the Brooklyn Bridge might tell us it’s closed nowadays.
 
 </div>
 
@@ -737,9 +732,8 @@ BRK BR CLOSED FOR BF   (Brooklyn Bridge Closed for Breakfast)
 
 <div class="work-label"><h2>37 <span>/ 50</span></h2></div>
 
-<!-- 上传 37.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
-<img class="artwork" src="37.jpg" alt="Work 37" loading="lazy">
--->
+
+<img class="artwork" src="37.png" alt="Work 37" loading="lazy">
 
 <div class="work-placeholder" aria-label="Work 37 awaiting upload"></div>
 
@@ -758,9 +752,8 @@ BRK BR CLOSED FOR BF   (Brooklyn Bridge Closed for Breakfast)
 
 <div class="work-label"><h2>38 <span>/ 50</span></h2></div>
 
-<!-- 上传 38.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
 <img class="artwork" src="38.jpg" alt="Work 38" loading="lazy">
--->
+
 
 <div class="work-placeholder" aria-label="Work 38 awaiting upload"></div>
 
@@ -779,9 +772,8 @@ BRK BR CLOSED FOR BF   (Brooklyn Bridge Closed for Breakfast)
 
 <div class="work-label"><h2>39 <span>/ 50</span></h2></div>
 
-<!-- 上传 39.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
-<img class="artwork" src="39.jpg" alt="Work 39" loading="lazy">
--->
+
+<img class="artwork" src="39.png" alt="Work 39" loading="lazy">
 
 <div class="work-placeholder" aria-label="Work 39 awaiting upload"></div>
 
