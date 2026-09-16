@@ -791,10 +791,9 @@ How the Brooklyn Bridge might tell us it’s closed nowadays.
 <section class="work" id="work-40" markdown="1">
 
 <div class="work-label"><h2>40 <span>/ 50</span></h2></div>
+I’ve explored the sign and the shape of the bridge. Now it’s time to explore its history and celebration.
 
-<!-- 上传 40.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
 <img class="artwork" src="40.jpg" alt="Work 40" loading="lazy">
--->
 
 <div class="work-placeholder" aria-label="Work 40 awaiting upload"></div>
 
@@ -816,13 +815,13 @@ How the Brooklyn Bridge might tell us it’s closed nowadays.
 <!-- 上传 41.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
 <img class="artwork" src="41.jpg" alt="Work 41" loading="lazy">
 -->
-
+M_______________M
 <div class="work-placeholder" aria-label="Work 41 awaiting upload"></div>
 
 <div class="notes" markdown="1">
 
 <!-- 在下面空行写第 41 件作品的注释；留空则不显示。 -->
-
+minimal Brooklyn Bridge.
 
 </div>
 
@@ -834,9 +833,8 @@ How the Brooklyn Bridge might tell us it’s closed nowadays.
 
 <div class="work-label"><h2>42 <span>/ 50</span></h2></div>
 
-<!-- 上传 42.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
-<img class="artwork" src="42.jpg" alt="Work 42" loading="lazy">
--->
+
+<img class="artwork" src="42.png" alt="Work 42" loading="lazy">
 
 <div class="work-placeholder" aria-label="Work 42 awaiting upload"></div>
 
@@ -855,16 +853,16 @@ How the Brooklyn Bridge might tell us it’s closed nowadays.
 
 <div class="work-label"><h2>43 <span>/ 50</span></h2></div>
 
-<!-- 上传 43.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
-<img class="artwork" src="43.jpg" alt="Work 43" loading="lazy">
--->
+
+<img class="artwork" src="43.png" alt="Work 43" loading="lazy">
+
 
 <div class="work-placeholder" aria-label="Work 43 awaiting upload"></div>
 
 <div class="notes" markdown="1">
 
 <!-- 在下面空行写第 43 件作品的注释；留空则不显示。 -->
-
+Brooklyn Bridge's birthday cake
 
 </div>
 
@@ -875,6 +873,13 @@ How the Brooklyn Bridge might tell us it’s closed nowadays.
 <section class="work" id="work-44" markdown="1">
 
 <div class="work-label"><h2>44 <span>/ 50</span></h2></div>
+
+<p class="centered-sign">
+  BROOKLYN BR<br>
+  CLOSED<br>
+  ALL DAY<br>
+  MAY 24 1983
+</p>
 
 <!-- 上传 44.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
 <img class="artwork" src="44.jpg" alt="Work 44" loading="lazy">
@@ -896,7 +901,8 @@ How the Brooklyn Bridge might tell us it’s closed nowadays.
 <section class="work" id="work-45" markdown="1">
 
 <div class="work-label"><h2>45 <span>/ 50</span></h2></div>
-
+BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 
+BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 
 <!-- 上传 45.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
 <img class="artwork" src="45.jpg" alt="Work 45" loading="lazy">
 -->
@@ -918,11 +924,7 @@ How the Brooklyn Bridge might tell us it’s closed nowadays.
 
 <div class="work-label"><h2>46 <span>/ 50</span></h2></div>
 
-<!-- 上传 46.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
-<img class="artwork" src="46.jpg" alt="Work 46" loading="lazy">
--->
-
-<div class="work-placeholder" aria-label="Work 46 awaiting upload"></div>
+<div class="closed-screen" role="img" aria-label="CLOSED">CLOSED</div>
 
 <div class="notes" markdown="1">
 
@@ -939,16 +941,16 @@ How the Brooklyn Bridge might tell us it’s closed nowadays.
 
 <div class="work-label"><h2>47 <span>/ 50</span></h2></div>
 
-<!-- 上传 47.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+
 <img class="artwork" src="47.jpg" alt="Work 47" loading="lazy">
--->
+
 
 <div class="work-placeholder" aria-label="Work 47 awaiting upload"></div>
 
 <div class="notes" markdown="1">
 
 <!-- 在下面空行写第 47 件作品的注释；留空则不显示。 -->
-
+Using hand resembling the two arches
 
 </div>
 
@@ -960,10 +962,7 @@ How the Brooklyn Bridge might tell us it’s closed nowadays.
 
 <div class="work-label"><h2>48 <span>/ 50</span></h2></div>
 
-<!-- 上传 48.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
 <img class="artwork" src="48.jpg" alt="Work 48" loading="lazy">
--->
-
 <div class="work-placeholder" aria-label="Work 48 awaiting upload"></div>
 
 <div class="notes" markdown="1">
@@ -980,6 +979,15 @@ How the Brooklyn Bridge might tell us it’s closed nowadays.
 <section class="work" id="work-49" markdown="1">
 
 <div class="work-label"><h2>49 <span>/ 50</span></h2></div>
+
+<div class="terms-card">
+  <strong>Brooklyn Bridge Terms &amp; Conditions</strong><br><br>
+  By crossing this bridge, you agree to:<br>
+  □ Connect Brooklyn and Manhattan<br>
+  □ Enjoy the view<br>
+  □ Not complain about tourists<br>
+  □ Accept occasional closure
+</div>
 
 <!-- 上传 49.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
 <img class="artwork" src="49.jpg" alt="Work 49" loading="lazy">
@@ -1005,7 +1013,12 @@ How the Brooklyn Bridge might tell us it’s closed nowadays.
 <!-- 上传 50.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
 <img class="artwork" src="50.jpg" alt="Work 50" loading="lazy">
 -->
+Delete “Brooklyn Bridge”?
 
+This bridge connects Brooklyn and Manhattan.
+This action cannot be undone.
+
+Cancel　　Delete
 <div class="work-placeholder" aria-label="Work 50 awaiting upload"></div>
 
 <div class="notes" markdown="1">
