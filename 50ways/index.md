@@ -800,7 +800,7 @@ I’ve explored the sign and the shape of the bridge. Now it’s time to explore
 <div class="notes" markdown="1">
 
 <!-- 在下面空行写第 40 件作品的注释；留空则不显示。 -->
-
+I turned the Brooklyn Bridge into a timeline from 1883 to 1983, using 100 vertical lines across the bridge to represent its 100 years of history.
 
 </div>
 
