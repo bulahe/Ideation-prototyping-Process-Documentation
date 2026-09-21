@@ -1,4 +1,5 @@
 title: Ideation & Prototyping
+description: Process documentation for weekly ideation and prototyping projects.
 url: "https://bulahe.github.io"
 baseurl: "/Ideation-prototyping-Process-Documentation"
 theme: jekyll-theme-primer
@@ -11,3 +12,5 @@ exclude:
   - scripts
   - PREVIEW.md
   - UPLOAD.md
+  - 50ways/assets/source
+  - endangered-animal/assets/source

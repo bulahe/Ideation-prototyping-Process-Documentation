@@ -1,8 +1,9 @@
 # *Ideation & Prototyping*
 
-## 50 Ways of Seeing
+## Projects
 
-[View the museum reference and works 01–50 →](50ways/)
+- [50 Ways of Seeing — museum reference and works 01–50 →](50ways/)
+- [Endangered Animal — process documentation →](endangered-animal/)
 
 ---
 

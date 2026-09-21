@@ -1,16 +1,20 @@
 ---
 layout: gallery
 title: 50 Ways of Seeing
+project: 50ways
+project_order: 1
+nav_title: 50 Ways of Seeing
+description: Fifty visual interpretations of a Brooklyn Bridge centennial sign.
+week: Week 01
+title_lead: 50 Ways of
+title_accent: Seeing
 ---
-
-
-<header class="intro"><h1>50 Ways of Seeing</h1></header>
 
 <section class="work" id="original" markdown="1">
 
 <div class="work-label"><span>Original</span></div>
 
-<img class="artwork" src="web/main.jpg?v=2" alt="Original museum reference">
+<img class="artwork" src="assets/images/main.jpg?v=2" alt="Original museum reference">
 
 <div class="notes" markdown="1">
 
@@ -29,7 +33,7 @@ I found this original sign at the Center for Brooklyn History in Brooklyn Height
 
 <div class="work-label"><h2>01 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="1%20handDraw.jpeg" alt="50 Ways of Seeing — work 01" loading="lazy">
+<img class="artwork" src="assets/images/1%20handDraw.jpeg" alt="50 Ways of Seeing — work 01" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -48,7 +52,7 @@ I implemented the first one by sketching with hands using pencil
 
 <div class="work-label"><h2>02 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="2%20handDraw2.jpeg" alt="50 Ways of Seeing — work 02" loading="lazy">
+<img class="artwork" src="assets/images/2%20handDraw2.jpeg" alt="50 Ways of Seeing — work 02" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -67,7 +71,7 @@ Colored version
 
 <div class="work-label"><h2>03 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="3%20canva%20black.png" alt="50 Ways of Seeing — work 03" loading="lazy">
+<img class="artwork" src="assets/images/3%20canva%20black.png" alt="50 Ways of Seeing — work 03" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -86,7 +90,7 @@ Canva version
 
 <div class="work-label"><h2>04 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="4%20toast.jpeg" alt="50 Ways of Seeing — work 04" loading="lazy">
+<img class="artwork" src="assets/images/4%20toast.jpeg" alt="50 Ways of Seeing — work 04" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -105,14 +109,14 @@ When I was drawing the two arches of the Brooklyn Bridge, I found that the shape
 
 <div class="work-label"><h2>05 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="5%20midi.png" alt="50 Ways of Seeing — work 05" loading="lazy">
+<img class="artwork" src="assets/images/5%20midi.png" alt="50 Ways of Seeing — work 05" loading="lazy">
 
 <video id="video-5" class="artwork" controls playsinline preload="none" aria-label="Work 05 video">
-  <source src="web/5-browser.mp4" type="video/mp4">
-  <a href="web/5-browser.mp4">Download video</a>
+  <source src="assets/video/5-browser.mp4" type="video/mp4">
+  <a href="assets/video/5-browser.mp4">Download video</a>
 </video>
 
-<div class="video-actions"><button type="button" data-video="video-5">Play video &amp; sound</button><a href="web/5-browser.mp4" target="_blank" rel="noopener">Open video</a><span role="status"></span></div>
+<div class="video-actions"><button type="button" data-video="video-5">Play video &amp; sound</button><a href="assets/video/5-browser.mp4" target="_blank" rel="noopener">Open video</a><span role="status"></span></div>
 
 <div class="notes" markdown="1">
 
@@ -131,7 +135,7 @@ I recreated the sign in Logic Pro using MIDI notes, turning its visual elements 
 
 <div class="work-label"><h2>06 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="6.jpg" alt="50 Ways of Seeing — work 06" loading="lazy">
+<img class="artwork" src="assets/images/6.jpg" alt="50 Ways of Seeing — work 06" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -150,7 +154,7 @@ Using forks and charing cables to represent the shape of Brooklyn Bridge
 
 <div class="work-label"><h2>07 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="7.png" alt="50 Ways of Seeing — work 07" loading="lazy">
+<img class="artwork" src="assets/images/7.png" alt="50 Ways of Seeing — work 07" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -169,7 +173,7 @@ Canva version - changed font
 
 <div class="work-label"><h2>08 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="8.png" alt="50 Ways of Seeing — work 08" loading="lazy">
+<img class="artwork" src="assets/images/8.png" alt="50 Ways of Seeing — work 08" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -188,7 +192,7 @@ The two arches reminded me of the McDonald’s logo.
 
 <div class="work-label"><h2>09 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="9.png" alt="50 Ways of Seeing — work 09" loading="lazy">
+<img class="artwork" src="assets/images/9.png" alt="50 Ways of Seeing — work 09" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -207,7 +211,7 @@ The two arches reminded me of the McDonald’s logo.
 
 <div class="work-label"><h2>10 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="10%20one-line%20BB.jpg" alt="50 Ways of Seeing — work 10" loading="lazy">
+<img class="artwork" src="assets/images/10%20one-line%20BB.jpg" alt="50 Ways of Seeing — work 10" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -226,7 +230,7 @@ Drawing the Brooklyn Bridge in one continuous line without lifting the pen.
 
 <div class="work-label"><h2>11 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="11%20dot-bb.jpg" alt="50 Ways of Seeing — work 11" loading="lazy">
+<img class="artwork" src="assets/images/11%20dot-bb.jpg" alt="50 Ways of Seeing — work 11" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -245,7 +249,7 @@ Drawing the Brooklyn Bridge with only dots.
 
 <div class="work-label"><h2>12 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="12.jpg" alt="50 Ways of Seeing — work 12" loading="lazy">
+<img class="artwork" src="assets/images/12.jpg" alt="50 Ways of Seeing — work 12" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -264,7 +268,7 @@ Drawing on mop pad.
 
 <div class="work-label"><h2>13 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="13.jpg" alt="50 Ways of Seeing — work 13" loading="lazy">
+<img class="artwork" src="assets/images/13.jpg" alt="50 Ways of Seeing — work 13" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -283,7 +287,7 @@ Hand-drawn Brooklyn Bridge another view 3D.
 
 <div class="work-label"><h2>14 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="14.jpg" alt="50 Ways of Seeing — work 14" loading="lazy">
+<img class="artwork" src="assets/images/14.jpg" alt="50 Ways of Seeing — work 14" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -302,7 +306,7 @@ Hand-drawn Brooklyn Bridge another view 3D.
 
 <div class="work-label"><h2>15 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="15.jpeg" alt="50 Ways of Seeing — work 15" loading="lazy">
+<img class="artwork" src="assets/images/15.jpeg" alt="50 Ways of Seeing — work 15" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -321,7 +325,7 @@ Then I started to think which else can I explore. So I tried augmented reality.
 
 <div class="work-label"><h2>16 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="16.jpeg" alt="50 Ways of Seeing — work 16" loading="lazy">
+<img class="artwork" src="assets/images/16.jpeg" alt="50 Ways of Seeing — work 16" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -340,7 +344,7 @@ Then I started to think which else can I explore. So I tried augmented reality.
 
 <div class="work-label"><h2>17 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="17.jpeg" alt="50 Ways of Seeing — work 17" loading="lazy">
+<img class="artwork" src="assets/images/17.jpeg" alt="50 Ways of Seeing — work 17" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -359,7 +363,7 @@ Then I started to think which else can I explore. So I tried augmented reality.
 
 <div class="work-label"><h2>18 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="18%20fail.jpg" alt="50 Ways of Seeing — work 18" loading="lazy">
+<img class="artwork" src="assets/images/18%20fail.jpg" alt="50 Ways of Seeing — work 18" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -378,7 +382,7 @@ Wanting to use pants to represents the two arches, guess I failed.
 
 <div class="work-label"><h2>19 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="19.png" alt="50 Ways of Seeing — work 19" loading="lazy">
+<img class="artwork" src="assets/images/19.png" alt="50 Ways of Seeing — work 19" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -397,7 +401,7 @@ pants plan in 2d kinda work!
 
 <div class="work-label"><h2>20 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="20.png" alt="50 Ways of Seeing — work 20" loading="lazy">
+<img class="artwork" src="assets/images/20.png" alt="50 Ways of Seeing — work 20" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -417,11 +421,11 @@ The original sign replicated in txt file!
 <div class="work-label"><h2>21 <span>/ 50</span></h2></div>
 
 <video id="video-21" class="artwork" controls playsinline preload="none" aria-label="Work 21 video">
-  <source src="web/21-browser.mp4" type="video/mp4">
-  <a href="web/21-browser.mp4">Download video</a>
+  <source src="assets/video/21-browser.mp4" type="video/mp4">
+  <a href="assets/video/21-browser.mp4">Download video</a>
 </video>
 
-<div class="video-actions"><button type="button" data-video="video-21">Play video</button><a href="web/21-browser.mp4" target="_blank" rel="noopener">Open video</a><span role="status"></span></div>
+<div class="video-actions"><button type="button" data-video="video-21">Play video</button><a href="assets/video/21-browser.mp4" target="_blank" rel="noopener">Open video</a><span role="status"></span></div>
 
 <div class="notes" markdown="1">
 
@@ -440,7 +444,7 @@ Out of idea now, so I went to the physical Brooklyn Bridge for inspiration. The 
 
 <div class="work-label"><h2>22 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="22.jpeg" alt="50 Ways of Seeing — work 22" loading="lazy">
+<img class="artwork" src="assets/images/22.jpeg" alt="50 Ways of Seeing — work 22" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -459,7 +463,7 @@ AR Brooklyn Bridge across the road.
 
 <div class="work-label"><h2>23 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="23.jpeg" alt="50 Ways of Seeing — work 23" loading="lazy">
+<img class="artwork" src="assets/images/23.jpeg" alt="50 Ways of Seeing — work 23" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -478,7 +482,7 @@ Brooklyn Bridge sign on the actual road
 
 <div class="work-label"><h2>24 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="24.jpeg" alt="50 Ways of Seeing — work 24" loading="lazy">
+<img class="artwork" src="assets/images/24.jpeg" alt="50 Ways of Seeing — work 24" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -497,7 +501,7 @@ Brooklyn Bridge sign on the actual road
 
 <div class="work-label"><h2>25 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="25.jpeg" alt="50 Ways of Seeing — work 25" loading="lazy">
+<img class="artwork" src="assets/images/25.jpeg" alt="50 Ways of Seeing — work 25" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -516,7 +520,7 @@ Brooklyn Bridge sign on the actual road
 
 <div class="work-label"><h2>26 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="web/26.jpg?v=2" alt="50 Ways of Seeing — work 26" loading="lazy">
+<img class="artwork" src="assets/images/26.jpg?v=2" alt="50 Ways of Seeing — work 26" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -535,7 +539,7 @@ The Brooklyn Bridge wasn’t closed, but I did find something locked.
 
 <div class="work-label"><h2>27 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="27.jpeg" alt="50 Ways of Seeing — work 27" loading="lazy">
+<img class="artwork" src="assets/images/27.jpeg" alt="50 Ways of Seeing — work 27" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -554,7 +558,7 @@ The original sign viewed in AR
 
 <div class="work-label"><h2>28 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="28.jpeg" alt="50 Ways of Seeing — work 28" loading="lazy">
+<img class="artwork" src="assets/images/28.jpeg" alt="50 Ways of Seeing — work 28" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -573,7 +577,7 @@ AR 3D drawing recreated the sign
 
 <div class="work-label"><h2>29 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="29.jpeg" alt="50 Ways of Seeing — work 29" loading="lazy">
+<img class="artwork" src="assets/images/29.jpeg" alt="50 Ways of Seeing — work 29" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -592,7 +596,7 @@ AR 3D drawing recreated the sign
 
 <div class="work-label"><h2>30 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="30.jpeg" alt="50 Ways of Seeing — work 30" loading="lazy">
+<img class="artwork" src="assets/images/30.jpeg" alt="50 Ways of Seeing — work 30" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -612,7 +616,7 @@ AR 3D drawing recreated the Brooklyn bridge
 
 <div class="work-label"><h2>31 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="31.jpg" alt="Work 31, image 1" loading="lazy">
+<img class="artwork" src="assets/images/31.jpg" alt="Work 31, image 1" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -629,13 +633,13 @@ recreating the Brooklyn Bridge using my electric piano and foldable chairs.
 
 <div class="work-label"><h2>32 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="32%201.jpg" alt="Work 32, image 1" loading="lazy">
+<img class="artwork" src="assets/images/32%201.jpg" alt="Work 32, image 1" loading="lazy">
 
 When I was making breakfast, the color of plain omelet reminded me of the sign.
  
-<img class="artwork" src="32%202.jpg" alt="Work 32, image 2" loading="lazy">
+<img class="artwork" src="assets/images/32%202.jpg" alt="Work 32, image 2" loading="lazy">
 
-<img class="artwork" src="32%203.jpg" alt="Work 32, image 3" loading="lazy">
+<img class="artwork" src="assets/images/32%203.jpg" alt="Work 32, image 3" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -652,10 +656,10 @@ BRK BR CLOSED ALL DAY.
 
 <div class="work-label"><h2>33 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="33%201.jpg" alt="Work 33, image 1" loading="lazy">
+<img class="artwork" src="assets/images/33%201.jpg" alt="Work 33, image 1" loading="lazy">
 Flipped it over and tried another way to paint with ketchup.
 
-<img class="artwork" src="33%202.jpg" alt="Work 33, image 2" loading="lazy">
+<img class="artwork" src="assets/images/33%202.jpg" alt="Work 33, image 2" loading="lazy">
 
 <div class="notes" markdown="1">
 
@@ -674,7 +678,7 @@ BRK BR CLOSED FOR BF   (Brooklyn Bridge Closed for Breakfast)
 
 <div class="work-label"><h2>34 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="34.jpg" alt="Work 31, image 1" loading="lazy">
+<img class="artwork" src="assets/images/34.jpg" alt="Work 31, image 1" loading="lazy">
 
 <div class="work-placeholder" aria-label="Work 34 awaiting upload"></div>
 
@@ -694,7 +698,7 @@ Closed
 <div class="work-label"><h2>35 <span>/ 50</span></h2></div>
 
 
-<img class="artwork" src="35.jpg" alt="Work 35" loading="lazy">
+<img class="artwork" src="assets/images/35.jpg" alt="Work 35" loading="lazy">
 
 <div class="work-placeholder" aria-label="Work 35 awaiting upload"></div>
 
@@ -713,7 +717,7 @@ Opened
 
 <div class="work-label"><h2>36 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="36.jpeg" alt="Work 36" loading="lazy">
+<img class="artwork" src="assets/images/36.jpeg" alt="Work 36" loading="lazy">
 
 <div class="work-placeholder" aria-label="Work 36 awaiting upload"></div>
 
@@ -733,7 +737,7 @@ How the Brooklyn Bridge might tell us it’s closed nowadays.
 <div class="work-label"><h2>37 <span>/ 50</span></h2></div>
 
 
-<img class="artwork" src="37.png" alt="Work 37" loading="lazy">
+<img class="artwork" src="assets/images/37.png" alt="Work 37" loading="lazy">
 
 <div class="work-placeholder" aria-label="Work 37 awaiting upload"></div>
 
@@ -752,7 +756,7 @@ How the Brooklyn Bridge might tell us it’s closed nowadays.
 
 <div class="work-label"><h2>38 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="38.jpg" alt="Work 38" loading="lazy">
+<img class="artwork" src="assets/images/38.jpg" alt="Work 38" loading="lazy">
 
 
 <div class="work-placeholder" aria-label="Work 38 awaiting upload"></div>
@@ -773,7 +777,7 @@ How the Brooklyn Bridge might tell us it’s closed nowadays.
 <div class="work-label"><h2>39 <span>/ 50</span></h2></div>
 
 
-<img class="artwork" src="39.png" alt="Work 39" loading="lazy">
+<img class="artwork" src="assets/images/39.png" alt="Work 39" loading="lazy">
 
 <div class="work-placeholder" aria-label="Work 39 awaiting upload"></div>
 
@@ -793,7 +797,7 @@ How the Brooklyn Bridge might tell us it’s closed nowadays.
 <div class="work-label"><h2>40 <span>/ 50</span></h2></div>
 I’ve explored the sign and the shape of the bridge. Now it’s time to explore its history and celebration.
 
-<img class="artwork" src="40.jpg" alt="Work 40" loading="lazy">
+<img class="artwork" src="assets/images/40.jpg" alt="Work 40" loading="lazy">
 
 <div class="work-placeholder" aria-label="Work 40 awaiting upload"></div>
 
@@ -812,8 +816,8 @@ I turned the Brooklyn Bridge into a timeline from 1883 to 1983, using 100 vertic
 
 <div class="work-label"><h2>41 <span>/ 50</span></h2></div>
 
-<!-- 上传 41.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
-<img class="artwork" src="41.jpg" alt="Work 41" loading="lazy">
+<!-- 上传 41.jpg 到 50ways/assets/images 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="assets/images/41.jpg" alt="Work 41" loading="lazy">
 -->
 M_______________M
 <div class="work-placeholder" aria-label="Work 41 awaiting upload"></div>
@@ -834,7 +838,7 @@ minimal Brooklyn Bridge.
 <div class="work-label"><h2>42 <span>/ 50</span></h2></div>
 
 
-<img class="artwork" src="42.png" alt="Work 42" loading="lazy">
+<img class="artwork" src="assets/images/42.png" alt="Work 42" loading="lazy">
 
 <div class="work-placeholder" aria-label="Work 42 awaiting upload"></div>
 
@@ -854,7 +858,7 @@ minimal Brooklyn Bridge.
 <div class="work-label"><h2>43 <span>/ 50</span></h2></div>
 
 
-<img class="artwork" src="43.png" alt="Work 43" loading="lazy">
+<img class="artwork" src="assets/images/43.png" alt="Work 43" loading="lazy">
 
 
 <div class="work-placeholder" aria-label="Work 43 awaiting upload"></div>
@@ -881,8 +885,8 @@ Brooklyn Bridge's birthday cake
   MAY 24 1983
 </p>
 
-<!-- 上传 44.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
-<img class="artwork" src="44.jpg" alt="Work 44" loading="lazy">
+<!-- 上传 44.jpg 到 50ways/assets/images 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="assets/images/44.jpg" alt="Work 44" loading="lazy">
 -->
 
 <div class="work-placeholder" aria-label="Work 44 awaiting upload"></div>
@@ -903,8 +907,8 @@ Brooklyn Bridge's birthday cake
 <div class="work-label"><h2>45 <span>/ 50</span></h2></div>
 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 
 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983  BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 
-<!-- 上传 45.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
-<img class="artwork" src="45.jpg" alt="Work 45" loading="lazy">
+<!-- 上传 45.jpg 到 50ways/assets/images 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="assets/images/45.jpg" alt="Work 45" loading="lazy">
 -->
 
 <div class="work-placeholder" aria-label="Work 45 awaiting upload"></div>
@@ -942,7 +946,7 @@ BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BROOKLYN BR CLOSED ALL DAY MAY 24 1983 BR
 <div class="work-label"><h2>47 <span>/ 50</span></h2></div>
 
 
-<img class="artwork" src="47.jpg" alt="Work 47" loading="lazy">
+<img class="artwork" src="assets/images/47.jpg" alt="Work 47" loading="lazy">
 
 
 <div class="work-placeholder" aria-label="Work 47 awaiting upload"></div>
@@ -962,7 +966,7 @@ Using hand resembling the two arches
 
 <div class="work-label"><h2>48 <span>/ 50</span></h2></div>
 
-<img class="artwork" src="48.jpg" alt="Work 48" loading="lazy">
+<img class="artwork" src="assets/images/48.jpg" alt="Work 48" loading="lazy">
 <div class="work-placeholder" aria-label="Work 48 awaiting upload"></div>
 
 <div class="notes" markdown="1">
@@ -989,8 +993,8 @@ Using hand resembling the two arches
   □ Accept occasional closure
 </div>
 
-<!-- 上传 49.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
-<img class="artwork" src="49.jpg" alt="Work 49" loading="lazy">
+<!-- 上传 49.jpg 到 50ways/assets/images 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="assets/images/49.jpg" alt="Work 49" loading="lazy">
 -->
 
 <div class="work-placeholder" aria-label="Work 49 awaiting upload"></div>
@@ -1010,8 +1014,8 @@ Using hand resembling the two arches
 
 <div class="work-label"><h2>50 <span>/ 50</span></h2></div>
 
-<!-- 上传 50.jpg 到 50ways 文件夹后，删除下面图片代码两侧的注释符号即可显示。
-<img class="artwork" src="50.jpg" alt="Work 50" loading="lazy">
+<!-- 上传 50.jpg 到 50ways/assets/images 文件夹后，删除下面图片代码两侧的注释符号即可显示。
+<img class="artwork" src="assets/images/50.jpg" alt="Work 50" loading="lazy">
 -->
 Delete “Brooklyn Bridge”?
 
