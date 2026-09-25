@@ -8,6 +8,7 @@ From the repository folder, run:
 
 Open http://127.0.0.1:4000/50ways/ in your browser.
 The Endangered Animal page is at http://127.0.0.1:4000/endangered-animal/.
+The Sketch Class Reflection page is at http://127.0.0.1:4000/sketch-class-reflection/.
 Keep the terminal running. Saved page and CSS changes rebuild automatically.
 Press Control+C to stop. Restart after editing `_config.yml`.
 

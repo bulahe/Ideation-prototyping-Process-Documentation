@@ -69,9 +69,17 @@ h1 { font-size: clamp(36px, 6vw, 64px); letter-spacing: -.04em; margin: 0; line-
 .work:has(img, video) .work-placeholder { display: none; }
 
 /* Reusable project-page elements. */
-.project-intro { min-height: 58vh; display: flex; flex-direction: column; justify-content: space-between; padding: 64px 0 48px; }
+.project-intro { display: flex; flex-direction: column; gap: 32px; padding: 64px 0 48px; }
+.project-intro .eyebrow { margin: 0; }
 .project-intro h1 { max-width: none; font-size: clamp(1.75rem, 6vw, 4rem); white-space: nowrap; }
 .project-intro h1 em { display: inline; color: #606c46; }
+.project-sketch-class-reflection .project-intro h1 { white-space: normal; }
+.project-sketch-class-reflection .notes,
+.reflection-introduction,
+.reflection-conclusion { max-width: 720px; margin: 28px auto 0; color: #525a40; font-size: 16px; line-height: 1.8; text-align: left; }
+.reflection-introduction { margin: 0 auto 54px; }
+.reflection-conclusion { border-top: 1px solid #d9dacf; padding-top: 28px; margin-bottom: 54px; }
+.reflection-conclusion h2 { font-family: Georgia, "Times New Roman", serif; font-size: 28px; font-weight: 400; line-height: 1.25; }
 .project-endangered-animal .notes { max-width: 760px; margin-top: 26px; color: #525a40; font-family: Georgia, "Times New Roman", serif; font-size: clamp(18px, 2vw, 22px); line-height: 1.6; letter-spacing: -.01em; text-align: left; }
 .process-introduction { margin-bottom: 54px; }
 .process-sequence { display: grid; gap: 48px; }
@@ -87,4 +95,4 @@ h1 { font-size: clamp(36px, 6vw, 64px); letter-spacing: -.04em; margin: 0; line-
 .process-conclusion { margin-top: 54px; }
 .project-empty { min-height: 40vh; display: grid; place-items: center; text-align: center; border-top: 1px solid #d9dacf; color: #74786b; }
 .project-empty p { max-width: 440px; margin: 0; font-family: Georgia, "Times New Roman", serif; font-size: clamp(28px, 5vw, 56px); line-height: 1.08; letter-spacing: -.04em; }
-@media(max-width: 700px) { .project-intro { min-height: 50vh; padding-top: 48px; } .process-sequence { gap: 32px; } .process-grid--two { grid-template-columns: 1fr; } .process-grid--two .process-figure img { aspect-ratio: auto; max-height: none; object-fit: contain; } }
+@media(max-width: 700px) { .project-intro { gap: 24px; padding: 40px 0 32px; } .process-sequence { gap: 32px; } .process-grid--two { grid-template-columns: 1fr; } .process-grid--two .process-figure img { aspect-ratio: auto; max-height: none; object-fit: contain; } }

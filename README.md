@@ -4,6 +4,7 @@
 
 - [50 Ways of Seeing — museum reference and works 01–50 →](50ways/)
 - [Endangered Animal — process documentation →](endangered-animal/)
+- [Sketch Class Reflection →](sketch-class-reflection/)
 
 ---
 
