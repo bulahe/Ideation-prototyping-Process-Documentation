@@ -17,7 +17,7 @@ Six sketches from class, with a few notes on what I found difficult and what imp
 </div>
 
 <section class="work" id="work-01" markdown="1">
-<div class="work-label"><h2>01 <span>Gesture and outline</span></h2></div>
+<div class="work-label"><h2>01</h2></div>
 <img class="artwork" src="assets/images/1.jpeg" alt="Three loose figure sketches in pen on yellow lined paper, showing different poses and outlines." loading="lazy">
 <div class="notes" markdown="1">
 
@@ -27,7 +27,7 @@ With limited time, I tried to roughly outline the three poses.
 </section>
 
 <section class="work" id="work-02" markdown="1">
-<div class="work-label"><h2>02 <span>Too many details</span></h2></div>
+<div class="work-label"><h2>02</h2></div>
 <img class="artwork" src="assets/images/2.jpeg" alt="Profile sketch with a cluster of flowers behind the head and handwritten notes about the difficulty of drawing the flowers." loading="lazy">
 <div class="notes" markdown="1">
 
@@ -37,7 +37,7 @@ I found the intricate flowers really hard to draw and had no idea how to approac
 </section>
 
 <section class="work" id="work-03" markdown="1">
-<div class="work-label"><h2>03 <span>Knowing when to stop</span></h2></div>
+<div class="work-label"><h2>03</h2></div>
 <img class="artwork" src="assets/images/3.jpeg" alt="Twenty-minute figure sketch with detailed eyes, hair, and clothing, beside a note about worrying that more detail would make the drawing worse." loading="lazy">
 <div class="notes" markdown="1">
 
@@ -47,7 +47,7 @@ After twenty minutes, I felt that adding more details might make the drawing wor
 </section>
 
 <section class="work" id="work-04" markdown="1">
-<div class="work-label"><h2>04 <span>Drawing the clothes</span></h2></div>
+<div class="work-label"><h2>04</h2></div>
 <img class="artwork" src="assets/images/4.jpeg" alt="Costume study showing patterned fabric, draped panels, and jewelry, with notes about leaving out the body and simplifying complex shapes." loading="lazy">
 <div class="notes" markdown="1">
 
@@ -57,7 +57,7 @@ For this sketch, I decided to try leaving out the body and focus on the clothes 
 </section>
 
 <section class="work" id="work-05" markdown="1">
-<div class="work-label"><h2>05 <span>The whole pose</span></h2></div>
+<div class="work-label"><h2>05</h2></div>
 <img class="artwork" src="assets/images/5.jpeg" alt="Full figure sketch with one arm extended toward a chair and the other hand raised near the face." loading="lazy">
 <div class="notes" markdown="1">
 
@@ -67,7 +67,7 @@ I tried starting with the overall outline instead of spending too much time on t
 </section>
 
 <section class="work" id="work-06" markdown="1">
-<div class="work-label"><h2>06 <span>A little more confidence</span></h2></div>
+<div class="work-label"><h2>06</h2></div>
 <img class="artwork" src="assets/images/6.jpeg" alt="Seated figure holding an open fan, with a detailed face and a handwritten note about improving at drawing faces." loading="lazy">
 <div class="notes" markdown="1">
 
