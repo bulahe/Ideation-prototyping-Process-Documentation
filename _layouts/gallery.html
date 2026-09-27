@@ -13,7 +13,11 @@
     <span>{{ page.nav_title | default: page.title }}</span>
     <div class="project-nav">
       {% assign project_pages = site.pages | where_exp: "item", "item.project" | sort: "project_order" %}
-      {% for project_page in project_pages %}<a href="{{ project_page.url | relative_url }}"{% if page.project == project_page.project %} aria-current="page"{% endif %}>{{ project_page.nav_title | default: project_page.title }}</a>{% endfor %}
+      {% for project_page in project_pages %}
+      <a href="{{ project_page.url | relative_url }}"{% if page.project == project_page.project %} aria-current="page"{% endif %}>
+        {% if project_page.title_lead and project_page.title_accent %}<span>{{ project_page.title_lead | escape }}</span> <span>{{ project_page.title_accent | escape }}</span>{% else %}{{ project_page.nav_title | default: project_page.title | escape }}{% endif %}
+      </a>
+      {% endfor %}
     </div>
   </nav>
   <main>
