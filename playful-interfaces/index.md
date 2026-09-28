@@ -133,7 +133,11 @@ The participant found it fun to navigate by following the compass. Without being
 
 <div class="notes" markdown="1">
 
-<!-- 在这里填写项目反思与下一步计划。 -->
+This project made me think differently about what navigation needs to do. Google Maps is designed to help people reach a destination as efficiently as possible, but that efficiency can also make the journey feel passive. I often find myself following the blue line without really understanding where I am.
+
+Through the compass prototype, I removed most of that information and only gave the user a direction. During testing, I noticed that this uncertainty actually made the experience more playful. The participant had to make their own decisions about which streets to take, and they became more curious about the people, places, and things around them.
+
+If I continued this project, I would like to test it with more people and in more complicated environments. I am also interested in finding the right balance between giving people enough information to feel comfortable while still leaving space for exploration.
 
 </div>
 
