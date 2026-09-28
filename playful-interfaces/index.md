@@ -114,9 +114,14 @@ For user testing, I plan to use a **Wizard-of-Oz** approach: I will manually sim
 
 <div class="work-label"><h2>05 <span>User Testing</span></h2></div>
 
+<div class="artwork-pair user-testing-photos">
+  <img class="artwork" src="assets/images/UT1.jpeg" alt="Compass prototype user testing — photo 1" loading="lazy">
+  <img class="artwork" src="assets/images/UT2.jpeg" alt="Compass prototype user testing — photo 2" loading="lazy">
+</div>
+
 <div class="notes" markdown="1">
 
-<!-- 在这里记录用户测试过程、反馈与修改。 -->
+The participant found it fun to navigate by following the compass. Without being able to see the final destination, they became more curious about the people, places, and things around them. Rather than focusing only on getting somewhere, they paid more attention to their surroundings along the way.
 
 </div>
 
