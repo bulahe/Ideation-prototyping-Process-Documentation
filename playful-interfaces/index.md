@@ -62,7 +62,10 @@ Maybe I don’t need more instructions from you. Maybe I just need a better sens
 
 Instead of showing a route, a handheld compass always points directly toward the destination. It tells me **where to go, but not how to get there**, leaving the actual path for me to discover.
 
-<img class="artwork" src="assets/images/TC1.png" alt="Compass concept reference" loading="lazy">
+<div class="artwork-pair concept-pair">
+  <img class="artwork" src="assets/images/TC1%20sketch.jpeg" alt="Compass concept sketch" loading="lazy">
+  <img class="artwork" src="assets/images/TC1.png" alt="Compass concept reference" loading="lazy">
+</div>
 
 ### **02 — AR Navigation**
 
@@ -70,7 +73,10 @@ Instead of translating the world into a 2D map, navigation appears directly in t
 
 This concept was inspired by the Forza Horizon series, which made me think about how navigation could feel more directly connected to the environment.
 
-<img class="artwork" src="assets/images/TC2.png" alt="AR Navigation concept reference" loading="lazy">
+<div class="artwork-pair concept-pair">
+  <img class="artwork" src="assets/images/TC2%20sketch.jpeg" alt="AR Navigation concept sketch" loading="lazy">
+  <img class="artwork" src="assets/images/TC2.png" alt="AR Navigation concept reference" loading="lazy">
+</div>
 
 <figure class="process-figure">
   <img class="artwork" src="assets/images/TC2%20game.jpeg" alt="Forza Horizon series gameplay reference for the AR Navigation concept" loading="lazy">
@@ -83,7 +89,10 @@ A virtual beacon is placed above the destination and remains visible from a dist
 
 This concept was inspired by Elden Ring and the idea of using a distant visual marker to guide exploration while leaving the path open to discovery.
 
-<img class="artwork" src="assets/images/TC3.png" alt="Beacon concept reference" loading="lazy">
+<div class="artwork-pair concept-pair">
+  <img class="artwork" src="assets/images/TC3%20sketch.jpeg" alt="Beacon concept sketch" loading="lazy">
+  <img class="artwork" src="assets/images/TC3.png" alt="Beacon concept reference" loading="lazy">
+</div>
 
 <figure class="process-figure">
   <img class="artwork" src="assets/images/TC3%20game.jpg" alt="Elden Ring gameplay reference for the Beacon concept" loading="lazy">
