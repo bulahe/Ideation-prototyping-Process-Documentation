@@ -1,82 +1,26 @@
-# *Ideation & Prototyping*
-
-## Projects
-
-- [50 Ways of Seeing — museum reference and works 01–50 →](50ways/)
-- [Endangered Animal — process documentation →](endangered-animal/)
-- [Sketch Class Reflection →](sketch-class-reflection/)
-- [Playful Interfaces →](playful-interfaces/)
-- [GenAI as Creative Material →](genai-as-creative-material/)
-
+---
+layout: gallery
+title: Ideation & Prototyping
+description: A journal of projects, experiments, and creative process.
+permalink: /
+home: true
 ---
 
-# heading 1
+<header class="project-intro home-intro">
+  <p class="eyebrow">Projects / Process documentation</p>
+  <h1>Ideation &amp; <em>Prototyping</em></h1>
+</header>
 
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
----
-
-This is a plain text paragraph.
-
-This is a separate paragraph, created with a blank line.
-
-**Bold text**
-
-*Italic text*
-
-***Bold and italic text***
-
-~~Strikethrough text~~
-
----
-
-- Bulleted list item
-- Another bulleted item
-- A third bulleted item
-
-1. Numbered list item
-2. Another numbered item
-3. A third numbered item
-
----
-
-> This is a blockquote.
->
-> A blockquote can contain multiple paragraphs.
-
----
-
-| Left-aligned column | Center-aligned column | Right-aligned column |
-| :--- | :---: | ---: |
-| Table cell | Table cell | Table cell |
-| Another row | Another row | Another row |
-
----
-
-<details>
-  <summary>Toggle — click to expand</summary>
-  <p>This paragraph is inside a collapsible section.</p>
-  <p>Click the title again to collapse it.</p>
-</details>
-
-<details>
-  <summary><strong>Toggle with a bold title</strong></summary>
-  <p><strong>Bold text</strong> inside a collapsible section.</p>
-  <ul>
-    <li>Bulleted item inside a toggle</li>
-    <li>Another bulleted item</li>
-  </ul>
-</details>
-
----
-
-`Inline code`
-
-```text
-This is a fenced code block.
-Line breaks and spacing are preserved here.
-```
+<div class="home-projects" aria-label="Projects">
+{% assign projects = site.pages | where_exp: "item", "item.project" | sort: "project_order" %}
+{% for project in projects %}
+  <a class="home-project" href="{{ project.url | relative_url }}">
+    <span class="home-project-number">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span>
+    <div>
+      <h2>{{ project.title | escape }}</h2>
+      <p>{{ project.description | escape }}</p>
+    </div>
+    <span class="home-project-arrow" aria-hidden="true">↗</span>
+  </a>
+{% endfor %}
+</div>
