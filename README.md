@@ -6,6 +6,7 @@
 - [Endangered Animal — process documentation →](endangered-animal/)
 - [Sketch Class Reflection →](sketch-class-reflection/)
 - [Playful Interfaces →](playful-interfaces/)
+- [GenAI as Creative Material →](genai-as-creative-material/)
 
 ---
 
