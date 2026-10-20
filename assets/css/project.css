@@ -245,3 +245,14 @@ h1 { font-size: clamp(36px, 6vw, 64px); letter-spacing: -.04em; margin: 0; line-
 .project-time-capsule .capsule-touch-images > figure + figure { margin-top: 0; }
 
 .project-time-capsule .capsule-closing { max-width: 720px; margin: 240px auto 0; text-align: center; }
+
+.project-time-capsule .capsule-keyboard-opening { max-width: 720px; margin: 0 auto 80px; }
+.project-time-capsule .capsule-keyboard-history { margin: 0 0 96px; }
+.project-time-capsule .capsule-keyboard-history .capsule-photo-pair { gap: 32px; align-items: center; }
+.project-time-capsule .capsule-keyboard-history .capsule-photo { max-height: none; }
+.project-time-capsule .capsule-keyboard-history > .capsule-copy { max-width: 720px; margin: 28px auto 0; text-align: center; }
+.project-time-capsule .capsule-keyboard-current { margin-top: 120px; }
+@media (max-width: 700px) {
+  .project-time-capsule .capsule-keyboard-history .capsule-photo-pair { grid-template-columns: 1fr; gap: 28px; }
+  .project-time-capsule .capsule-keyboard-current { margin-top: 72px; }
+}

@@ -95,19 +95,54 @@ title_accent: Capsule
   <header class="capsule-section-heading">
     <p class="eyebrow">Object 3</p>
     <h2 id="keyboard-title">My Keyboard</h2>
-    <p>A digital piano and the time spent playing it.</p>
   </header>
-  <div class="capsule-row">
-    <figure class="capsule-visual">
-      <div class="capsule-image-placeholder capsule-image-placeholder--wide"><span>My digital piano / keyboard<br><small>Photo to come</small></span></div>
-      <figcaption>03 / My keyboard</figcaption>
+
+  <div class="capsule-keyboard-opening capsule-copy">
+    <p>The first piano I played was the one at home. My family wanted me to learn, but I didn’t enjoy it then. Playing felt like pressure.</p>
+    <p>Later, at boarding school, I saw an older student playing Beethoven and thought he looked really cool. It made me want to learn to play like that. I started teaching myself, and gradually began to enjoy playing.</p>
+    <p>I still miss the piano at home. I’m rarely there these days, and unfortunately I don’t have a photo of it to include here.</p>
+  </div>
+
+  <div class="capsule-keyboard-history">
+    <div class="capsule-photo-pair">
+      <figure>
+        <img class="capsule-photo" src="assets/images/highschool_kb.JPG" alt="My small keyboard beside a laptop during high school" loading="lazy">
+        <figcaption>My keyboard in high school</figcaption>
+      </figure>
+      <figure>
+        <img class="capsule-photo" src="assets/images/highschool_kb_now.JPG" alt="The same high school keyboard today, with yellowed keys" loading="lazy">
+        <figcaption>The same keyboard today</figcaption>
+      </figure>
+    </div>
+    <div class="capsule-copy">
+      <p>This was the keyboard I used in high school, and this is what it looks like now.</p>
+    </div>
+  </div>
+
+  <div class="capsule-keyboard-history">
+    <div class="capsule-photo-pair">
+      <figure>
+        <img class="capsule-photo" src="assets/images/college_kb1.JPG" alt="A keyboard at my desk during college" loading="lazy">
+        <figcaption>A keyboard I used in college</figcaption>
+      </figure>
+      <figure>
+        <img class="capsule-photo" src="assets/images/college_kb2.jpg" alt="My previous keyboard in a screenshot from a rehearsal video" loading="lazy">
+        <figcaption>My previous keyboard / Rehearsal video still</figcaption>
+      </figure>
+    </div>
+    <div class="capsule-copy">
+      <p>These are two keyboards I used during college. I couldn’t find many photos of the one I had before my current piano, so I took this still from a rehearsal video.</p>
+    </div>
+  </div>
+
+  <div class="capsule-row capsule-keyboard-current">
+    <figure>
+      <img class="capsule-photo" src="assets/images/kb_now.jpg" alt="My current digital piano at home with sheet music on its stand" loading="lazy">
+      <figcaption>My keyboard now</figcaption>
     </figure>
     <div class="capsule-copy">
-      <h3>A place for music</h3>
-      <p>[Introduce your keyboard: when you got it, where it lives, and how you began playing.]</p>
-      <p>[Describe a song, a practice routine, or a particular moment that connects you to this instrument.]</p>
-      <h4>What I want to keep</h4>
-      <p>[Reflect on what the keyboard represents in this chapter of your life, and what you would want your future self to remember.]</p>
+      <p>Unlike my blanky, a keyboard doesn’t have to be the same physical object for me to enjoy playing it. I’ve changed keyboards before, and I’ll probably change them again. That doesn’t mean I feel nothing for the individual instruments—I still miss the piano at home.</p>
+      <p>But having a keyboard where I live has become an important part of what makes being at home enjoyable for me. The instrument can change, while playing remains something I want in my everyday life.</p>
     </div>
   </div>
 </section>
