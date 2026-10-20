@@ -3,6 +3,7 @@ layout: gallery
 title: Playful Interfaces
 project: playful-interfaces
 project_order: 4
+project_date: 2026-09-30
 nav_title: Playful Interfaces
 description: Process documentation for the Playful Interfaces project.
 week: In progress

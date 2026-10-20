@@ -3,6 +3,7 @@ layout: gallery
 title: Sketch Class Reflection
 project: sketch-class-reflection
 project_order: 3
+project_date: 2026-09-30
 nav_title: Sketch Class Reflection
 description: Six sketches reflecting on gesture, detail, costume, and growing confidence in drawing faces.
 week: Class reflection

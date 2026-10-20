@@ -3,6 +3,7 @@ layout: gallery
 title: 50 Ways of Seeing
 project: 50ways
 project_order: 1
+project_date: 2026-09-16
 nav_title: 50 Ways of Seeing
 description: Fifty visual interpretations of a Brooklyn Bridge centennial sign.
 week: Week 01

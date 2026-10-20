@@ -3,6 +3,7 @@ layout: gallery
 title: Endangered Animal
 project: endangered-animal
 project_order: 2
+project_date: 2026-09-23
 nav_title: Endangered Animal
 description: Process documentation for the Endangered Animal project.
 week: Week 02

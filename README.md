@@ -12,10 +12,10 @@ home: true
 </header>
 
 <div class="home-projects" aria-label="Projects">
-{% assign projects = site.pages | where_exp: "item", "item.project" | sort: "project_order" %}
+{% assign projects = site.pages | where_exp: "item", "item.project" | sort: "project_date" | reverse %}
 {% for project in projects %}
   <a class="home-project" href="{{ project.url | relative_url }}">
-    <span class="home-project-number">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span>
+    <time class="home-project-date" datetime="{{ project.project_date | date: '%Y-%m-%d' }}">{{ project.project_date | date: "%b %-d" }}</time>
     <div>
       <h2>{{ project.title | escape }}</h2>
       <p>{{ project.description | escape }}</p>

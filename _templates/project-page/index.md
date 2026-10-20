@@ -3,6 +3,7 @@ layout: gallery
 title: New Project
 project: new-project
 project_order: 3
+project_date: 2026-10-19
 nav_title: New Project
 description: Process documentation for New Project.
 week: Week 00

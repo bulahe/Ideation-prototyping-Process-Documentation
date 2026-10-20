@@ -3,6 +3,7 @@ layout: gallery
 title: GenAI as Creative Material
 project: genai-as-creative-material
 project_order: 5
+project_date: 2026-10-07
 nav_title: GenAI as Creative Material
 description: A recursive process between human interventions and multiple generative AI models, starting from Raphael’s The School of Athens.
 week: In progress
