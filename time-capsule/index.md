@@ -13,7 +13,7 @@ title_accent: Capsule
 
 <div class="capsule-opening">
   <p>I’ve never thought of myself as a nostalgic person.</p>
-  <p>I missed both my high school and college graduation ceremonies because of circumstances at the time, but I’ve mostly made peace with that. Things my friends gave me tend to disappear unless I actually use them. When I travel, I rarely keep souvenirs.</p>
+  <p>I’ve never made a conscious effort to hold on to things, because I feel like I’m always moving.</p>
   <p>People, places, and things in my life keep changing, and I’ve never felt much need to hold on to something just to remember them by.</p>
   <p>But there is one strange exception.</p>
 </div>
