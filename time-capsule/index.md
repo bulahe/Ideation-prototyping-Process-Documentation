@@ -167,7 +167,51 @@ title_accent: Capsule
     <h2 id="part-2-title">Design the Time Capsule</h2>
   </header>
   <div class="capsule-copy">
-    <p>I’m finding this part difficult. I want to focus on my blanky and the tension in my relationship with it: I love it and need it every day, but holding and touching it also wears it out. I want to protect it, yet I don’t want to stop using it. I have a sense of what I want to express, but none of the designs I’ve considered feels quite right yet. I’m still thinking about how opening the capsule could let someone else feel some of that contradiction.</p>
+    <p>I’ve often trusted intuition in design. In past projects, an idea would sometimes arrive suddenly, and I would know how I wanted to move forward. That hasn’t happened with this capsule yet. None of the ideas feels quite right. Maybe it’s because my blanky matters so much to me.</p>
+  </div>
+
+  <div class="capsule-prototype-step">
+    <h3>Choosing the inner container</h3>
+    <div class="capsule-row">
+      <figure>
+        <img class="capsule-photo" src="assets/images/empty-storage-box.jpeg" alt="The empty lidless storage box I took with me to look for an outer layer" loading="lazy">
+        <figcaption>The lidless storage box I started with.</figcaption>
+      </figure>
+      <div class="capsule-copy">
+        <p>I decided to start with something practical: a rigid inner container to support my blanky. I had a lidless storage box that was about the right size. I’m worried that taking the blanky directly out of an outer bag, without that support, could pull on the worn fabric and tear it. With the box, I can lift the whole container out instead.</p>
+        <p>I also chose it for its smooth surface. A fuzzy lining might seem softer, but I’m concerned that its fibers could catch in the blanky and cause more damage. A smooth container feels like a safer choice to me.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="capsule-prototype-step">
+    <h3>Seeing the difference in thickness</h3>
+    <div class="capsule-photo-pair capsule-prototype-comparison">
+      <figure>
+        <img class="capsule-photo" src="assets/images/replacement-in-box.jpeg" alt="The thicker replacement blanket folded in the storage box" loading="lazy">
+        <figcaption>The replacement blanket in the box.</figcaption>
+      </figure>
+      <figure>
+        <img class="capsule-photo" src="assets/images/original-in-box.jpeg" alt="My thinner original blanky folded in the same storage box, leaving more space above it" loading="lazy">
+        <figcaption>My original blanky in the same box.</figcaption>
+      </figure>
+    </div>
+    <div class="capsule-copy capsule-prototype-reflection">
+      <p>While trying the box, I folded each blanket and put it inside in turn. I could already feel the difference in thickness by touch, but seeing them in the same container made it much more obvious how thin my original blanky has become over the years.</p>
+    </div>
+  </div>
+  <div class="capsule-prototype-step">
+    <h3>Trying the outer layer</h3>
+    <div class="capsule-row">
+      <figure>
+        <img class="capsule-photo" src="assets/images/capsule-packaging.jpeg" alt="My original blanky in a storage box fitted inside a clear zippered bedsheet package" loading="lazy">
+        <figcaption>Trying the storage box inside the bedsheet packaging.</figcaption>
+      </figure>
+      <div class="capsule-copy">
+        <p>I took the box with me to look for an outer layer. At a general store, I found a set of bedsheets whose packaging looked like a good fit for the box, so I bought it.</p>
+        <p>The clear zippered package fits around the box and lets me see the blanky inside. This is my first try at putting the two together.</p>
+      </div>
+    </div>
   </div>
 </section>
 

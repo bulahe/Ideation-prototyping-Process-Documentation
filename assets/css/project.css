@@ -389,3 +389,14 @@ h1 { font-size: clamp(36px, 6vw, 64px); letter-spacing: -.04em; margin: 0; line-
   .project-time-capsule .capsule-nav-dot,
   .project-time-capsule .capsule-nav-label { transition: none; }
 }
+
+/* Part 2: material trials and observations. */
+.project-time-capsule #part-2 > .capsule-copy { max-width: 720px; margin-bottom: 64px; }
+.project-time-capsule .capsule-prototype-step { margin-top: 64px; }
+.project-time-capsule .capsule-prototype-step .capsule-row { margin-top: 28px; }
+.project-time-capsule .capsule-prototype-comparison { gap: 24px; margin-top: 28px; }
+.project-time-capsule .capsule-prototype-comparison .capsule-photo { max-height: none; }
+.project-time-capsule .capsule-prototype-reflection { max-width: 720px; margin: 28px auto 0; }
+@media (max-width: 700px) {
+  .project-time-capsule .capsule-prototype-comparison { grid-template-columns: 1fr; }
+}
