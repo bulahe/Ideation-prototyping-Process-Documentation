@@ -303,7 +303,7 @@ h1 { font-size: clamp(36px, 6vw, 64px); letter-spacing: -.04em; margin: 0; line-
 }
 .project-time-capsule .capsule-part--pending { min-height: 65svh; padding: 64px 0; border-top: 1px solid #d9dacf; }
 @media (min-width: 1101px) {
-  .project-time-capsule main { width: min(calc(100% - 248px), 1240px); margin-left: max(208px, calc((100% - 1032px) / 2)); margin-right: 40px; }
+  .project-time-capsule main { width: min(calc(100% - 248px), 1240px); margin-inline: auto; }
 }
 @media (max-width: 1100px) {
   .project-time-capsule .capsule-part-nav {
@@ -391,7 +391,7 @@ h1 { font-size: clamp(36px, 6vw, 64px); letter-spacing: -.04em; margin: 0; line-
 }
 
 /* Part 2: material trials and observations. */
-.project-time-capsule #part-2 > .capsule-copy { max-width: 720px; margin-bottom: 64px; }
+.project-time-capsule #part-2 > .capsule-copy { max-width: 720px; margin: 0 auto 64px; }
 .project-time-capsule .capsule-prototype-step { margin-top: 64px; }
 .project-time-capsule .capsule-prototype-step .capsule-row { margin-top: 28px; }
 .project-time-capsule .capsule-prototype-comparison { gap: 24px; margin-top: 28px; }

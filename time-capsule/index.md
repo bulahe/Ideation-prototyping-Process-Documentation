@@ -168,6 +168,7 @@ title_accent: Capsule
   </header>
   <div class="capsule-copy">
     <p>I’ve often trusted intuition in design. In past projects, an idea would sometimes arrive suddenly, and I would know how I wanted to move forward. That hasn’t happened with this capsule yet. None of the ideas feels quite right. Maybe it’s because my blanky matters so much to me.</p>
+    <p>Lately, I’ve become more aware that using my blanky also wears it out. My attachment keeps me holding it and reaching for it every day, and those same habits are gradually making it thinner. I want it to last, but I still can’t imagine going without it. I’m finding that difficult to reconcile.</p>
   </div>
 
   <div class="capsule-prototype-step">
