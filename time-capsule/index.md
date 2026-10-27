@@ -4,6 +4,8 @@ title: Time Capsule
 project: time-capsule
 project_order: 6
 project_date: 2026-10-21
+project_additional_dates:
+  - 2026-10-28
 nav_title: Time Capsule
 description: A time capsule in three parts — objects, design, and what comes next.
 week: Parts 1–3
@@ -211,7 +213,9 @@ title_accent: Capsule
       <div class="capsule-copy">
         <p>I took the box with me to look for an outer layer. At a general store, I found a set of bedsheets whose packaging looked like a good fit for the box, so I bought it.</p>
         <p>The clear zippered package fits around the box and lets me see the blanky inside. This is my first try at putting the two together.</p>
-        <p>Functionally, this meets my needs: the smooth, rigid inner container supports the blanky, and the transparent outer layer is easy to open and close. I still want to add something expressive or artistic to the design, but I haven’t found inspiration for that yet.</p>
+        <p>Functionally, this meets my needs: the smooth, rigid inner container supports the blanky, and the transparent outer layer is easy to open and close.</p>
+        <p>What I’m still working out is how the design could quietly express something I’ve been feeling lately: I want to preserve my blanky, but I still need to use it, even as that use wears it out. This tension has been on my mind, and I’d like it to come through in the capsule.</p>
+        <p>I’ve considered a few ways to express this, but I worry about making it feel forced or more dramatic than it needs to be. I’m still looking for a restrained approach that feels true to my experience. That’s where I’m stuck at the moment.</p>
       </div>
     </div>
   </div>

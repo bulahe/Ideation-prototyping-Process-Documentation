@@ -400,3 +400,6 @@ h1 { font-size: clamp(36px, 6vw, 64px); letter-spacing: -.04em; margin: 0; line-
 @media (max-width: 700px) {
   .project-time-capsule .capsule-prototype-comparison { grid-template-columns: 1fr; }
 }
+
+.home-project-dates { position: relative; }
+.home-project-extra-dates { position: absolute; top: calc(100% + 2px); left: 0; display: grid; gap: 2px; }
