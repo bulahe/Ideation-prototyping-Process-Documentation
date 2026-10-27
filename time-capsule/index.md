@@ -210,6 +210,7 @@ title_accent: Capsule
       <div class="capsule-copy">
         <p>I took the box with me to look for an outer layer. At a general store, I found a set of bedsheets whose packaging looked like a good fit for the box, so I bought it.</p>
         <p>The clear zippered package fits around the box and lets me see the blanky inside. This is my first try at putting the two together.</p>
+        <p>Functionally, this meets my needs: the smooth, rigid inner container supports the blanky, and the transparent outer layer is easy to open and close. I still want to add something expressive or artistic to the design, but I haven’t found inspiration for that yet.</p>
       </div>
     </div>
   </div>
