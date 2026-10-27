@@ -5,11 +5,23 @@ project: time-capsule
 project_order: 6
 project_date: 2026-10-21
 nav_title: Time Capsule
-description: Part 1 — My Two Blankies and My Keyboard.
-week: Part 1
+description: A time capsule in three parts — objects, design, and what comes next.
+week: Parts 1–3
 title_lead: Time
 title_accent: Capsule
 ---
+
+<nav class="capsule-part-nav" aria-label="Time Capsule parts">
+  <a href="#part-1" aria-current="location"><span class="capsule-nav-dot" aria-hidden="true"></span><span class="capsule-nav-label">Part 1</span></a>
+  <a href="#part-2"><span class="capsule-nav-dot" aria-hidden="true"></span><span class="capsule-nav-label">Part 2</span></a>
+  <a href="#part-3"><span class="capsule-nav-dot" aria-hidden="true"></span><span class="capsule-nav-label">Part 3</span></a>
+</nav>
+
+<section class="capsule-part" id="part-1" aria-labelledby="part-1-title">
+  <header class="capsule-part-heading">
+    <p class="eyebrow">Part 1</p>
+    <h2 id="part-1-title">The Objects</h2>
+  </header>
 
 <div class="capsule-opening">
   <p>I’ve never thought of myself as a nostalgic person.</p>
@@ -146,3 +158,24 @@ title_accent: Capsule
     </div>
   </div>
 </section>
+
+</section>
+
+<section class="capsule-part capsule-part--pending" id="part-2" aria-labelledby="part-2-title">
+  <header class="capsule-part-heading">
+    <p class="eyebrow">Part 2 / In progress</p>
+    <h2 id="part-2-title">Design the Time Capsule</h2>
+  </header>
+  <div class="capsule-copy">
+    <p>A capsule for my blanky. Design process and prototypes coming soon.</p>
+  </div>
+</section>
+
+<section class="capsule-part capsule-part--pending" id="part-3" aria-labelledby="part-3-title">
+  <header class="capsule-part-heading">
+    <p class="eyebrow">Part 3 / Coming soon</p>
+    <h2 id="part-3-title">To Be Continued</h2>
+  </header>
+</section>
+
+<script src="{{ '/assets/js/capsule-navigation.js' | relative_url }}" defer></script>
