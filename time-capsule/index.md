@@ -167,7 +167,7 @@ title_accent: Capsule
     <h2 id="part-2-title">Design the Time Capsule</h2>
   </header>
   <div class="capsule-copy">
-    <p>A capsule for my blanky. Design process and prototypes coming soon.</p>
+    <p>I’m finding this part difficult. I want to focus on my blanky and the tension in my relationship with it: I love it and need it every day, but holding and touching it also wears it out. I want to protect it, yet I don’t want to stop using it. I have a sense of what I want to express, but none of the designs I’ve considered feels quite right yet. I’m still thinking about how opening the capsule could let someone else feel some of that contradiction.</p>
   </div>
 </section>
 
