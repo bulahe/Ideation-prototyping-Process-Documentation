@@ -170,7 +170,7 @@ title_accent: Capsule
   </header>
   <div class="capsule-copy">
     <p>I’ve often trusted intuition in design. In past projects, an idea would sometimes arrive suddenly, and I would know how I wanted to move forward. That hasn’t happened with this capsule yet. None of the ideas feels quite right. Maybe it’s because my blanky matters so much to me.</p>
-    <p>Lately, I’ve become more aware that using my blanky also wears it out. My attachment keeps me holding it and reaching for it every day, and those same habits are gradually making it thinner. I want it to last, but I still can’t imagine going without it. I’m finding that difficult to reconcile.</p>
+    <p>Lately, I’ve been thinking about how my love and attachment to my blanky also contribute to wearing it out. I hold it and touch it so often because it matters to me, and those same gestures are slowly wearing away the fabric. That’s difficult to sit with because this particular blanky is irreplaceable. It isn’t like a lipstick I can buy again when it runs out; even the identical blanket my mom bought never became a replacement for me. If this were a relationship with another person, I think I would struggle with it much more. With my blanky, I still feel that I want to keep using it. Knowing I can’t replace it makes that choice a little harder, but I don’t want to put it away just to keep it intact.</p>
   </div>
 
   <div class="capsule-prototype-step">
@@ -214,8 +214,8 @@ title_accent: Capsule
         <p>I took the box with me to look for an outer layer. At a general store, I found a set of bedsheets whose packaging looked like a good fit for the box, so I bought it.</p>
         <p>The clear zippered package fits around the box and lets me see the blanky inside. This is my first try at putting the two together.</p>
         <p>Functionally, this meets my needs: the smooth, rigid inner container supports the blanky, and the transparent outer layer is easy to open and close.</p>
-        <p>What I’m still working out is how the design could quietly express something I’ve been feeling lately: I want to preserve my blanky, but I still need to use it, even as that use wears it out. This tension has been on my mind, and I’d like it to come through in the capsule.</p>
-        <p>I’ve considered a few ways to express this, but I worry about making it feel forced or more dramatic than it needs to be. I’m still looking for a restrained approach that feels true to my experience. That’s where I’m stuck at the moment.</p>
+        <p>I’ve realized that my attachment to my blanky is also what’s wearing it out. I can’t replace it, and that bothers me, but I still choose to use it. I want the design to acknowledge that feeling without making the choice seem more dramatic than it is.</p>
+        <p>I’ve considered a few approaches, but some feel too deliberate or too dramatic for what I actually feel. The feeling is real; I just don’t want to force it into a poetic gesture. I’m still figuring out how much the design needs to say.</p>
       </div>
     </div>
   </div>
