@@ -214,7 +214,8 @@ title_accent: Capsule
         <p>I took the box with me to look for an outer layer. At a general store, I found a set of bedsheets whose packaging looked like a good fit for the box, so I bought it.</p>
         <p>The clear zippered package fits around the box and lets me see the blanky inside. This is my first try at putting the two together.</p>
         <p>Functionally, this meets my needs: the smooth, rigid inner container supports the blanky, and the transparent outer layer is easy to open and close.</p>
-        <p>I want the design to acknowledge that feeling without making it seem more dramatic than it is. I’ve considered a few approaches, but some feel forced. I’m still figuring out how much the design needs to say.</p>
+        <p>Returning to that tension between attachment and wear, I want the design to acknowledge that feeling without making the choice seem more dramatic than it is.</p>
+        <p>I’ve considered a few approaches, but some feel too deliberate or too dramatic for what I actually feel. The feeling is real; I just don’t want to force it into a poetic gesture. I’m still figuring out how much the design needs to say.</p>
       </div>
     </div>
   </div>
