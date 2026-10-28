@@ -219,6 +219,18 @@ title_accent: Capsule
       </div>
     </div>
   </div>
+  <div class="capsule-prototype-step">
+    <h3>Marking its height</h3>
+    <div class="capsule-row">
+      <figure>
+        <img class="capsule-photo" src="assets/images/dated-height-mark.jpeg" alt="A handwritten date, 2026.10.28, and a height mark on the side of the container" loading="lazy">
+        <figcaption>A height reference dated October 28, 2026.</figcaption>
+      </figure>
+      <div class="capsule-copy">
+        <p>I marked the height of my folded blanky on the side of the container and added the date. This gives me a reference for noticing how it changes over time.</p>
+      </div>
+    </div>
+  </div>
 </section>
 
 <section class="capsule-part capsule-part--pending" id="part-3" aria-labelledby="part-3-title">
