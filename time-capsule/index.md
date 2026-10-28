@@ -170,7 +170,7 @@ title_accent: Capsule
   </header>
   <div class="capsule-copy">
     <p>I’ve often trusted intuition in design. In past projects, an idea would sometimes arrive suddenly, and I would know how I wanted to move forward. That hasn’t happened with this capsule yet. None of the ideas feels quite right. Maybe it’s because my blanky matters so much to me.</p>
-    <p>Lately, I’ve realized that my attachment to my blanky is also what’s wearing it out. How much that bothers me falls somewhere in between two situations. It isn’t like using up a lipstick: I can’t just buy another one and feel the same way about it. Even the identical blanket my mom bought never replaced it for me. But it isn’t like a relationship with another person, either. My blanky doesn’t have feelings or needs of its own, so I don’t feel guilty toward it in the same way I would toward someone I was hurting. It’s my personal belonging, and I’m the one who treasures it. I feel uneasy about wearing out something I can’t replace, but I still want to keep using it. The conflict is there, just not so strongly that I want to stop.</p>
+    <p>Lately, I’ve realized that my attachment to my blanky is also what’s wearing it out. It bothers me to see it getting thinner, especially knowing I can’t replace it. But I still use it every day, and I don’t want to stop.</p>
   </div>
 
   <div class="capsule-prototype-step">
@@ -214,8 +214,7 @@ title_accent: Capsule
         <p>I took the box with me to look for an outer layer. At a general store, I found a set of bedsheets whose packaging looked like a good fit for the box, so I bought it.</p>
         <p>The clear zippered package fits around the box and lets me see the blanky inside. This is my first try at putting the two together.</p>
         <p>Functionally, this meets my needs: the smooth, rigid inner container supports the blanky, and the transparent outer layer is easy to open and close.</p>
-        <p>I’ve realized that my attachment to my blanky is also what’s wearing it out. I can’t replace it, and that bothers me, but I still choose to use it. I want the design to acknowledge that feeling without making the choice seem more dramatic than it is.</p>
-        <p>I’ve considered a few approaches, but some feel too deliberate or too dramatic for what I actually feel. The feeling is real; I just don’t want to force it into a poetic gesture. I’m still figuring out how much the design needs to say.</p>
+        <p>I want the design to acknowledge that feeling without making it seem more dramatic than it is. I’ve considered a few approaches, but some feel forced. I’m still figuring out how much the design needs to say.</p>
       </div>
     </div>
   </div>
