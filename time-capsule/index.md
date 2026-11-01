@@ -235,9 +235,50 @@ title_accent: Capsule
 
 <section class="capsule-part capsule-part--pending" id="part-3" aria-labelledby="part-3-title">
   <header class="capsule-part-heading">
-    <p class="eyebrow">Part 3 / Coming soon</p>
-    <h2 id="part-3-title">To Be Continued</h2>
+    <p class="eyebrow">Part 3 / Narrative planning</p>
+    <h2 id="part-3-title">125 Years Later</h2>
   </header>
+
+  <div class="capsule-narrative capsule-copy">
+    <section class="capsule-narrative-step" aria-labelledby="future-title">
+      <p class="eyebrow">01 / Setting</p>
+      <h3 id="future-title">Establish the Future</h3>
+      <p>New York City, around 2151 — 125 years in the future.</p>
+      <p>Scanning, reproducing, and restoring physical objects has become routine. Worn or damaged belongings are usually restored, reproduced, or recycled. Few objects remain visibly old, and objects rarely age alongside their owners.</p>
+      <p>During the renovation of an old residential building, workers discover a sealed time capsule from the 2020s.</p>
+    </section>
+
+    <section class="capsule-narrative-step" aria-labelledby="perspective-title">
+      <p class="eyebrow">02 / Perspective</p>
+      <h3 id="perspective-title">Choose a Perspective</h3>
+      <p>The story follows a child around 10–12 years old who encounters the capsule.</p>
+      <p>He recognizes the blanket inside, but cannot understand why someone carefully preserved something so ordinary and worn. Having grown up with effortless restoration, he sees deterioration as a problem with an obvious solution.</p>
+      <p>The story opens with his question:</p>
+      <blockquote class="capsule-story-line"><p>“Why didn’t they just replace it?”</p></blockquote>
+    </section>
+
+    <section class="capsule-narrative-step" aria-labelledby="interpret-title">
+      <p class="eyebrow">03 / Interpretation</p>
+      <h3 id="interpret-title">Interpret</h3>
+      <p>The child opens the capsule and notices the contrast between its careful packaging and the blanket’s fragile condition.</p>
+      <p>A restoration system scans the blanket and generates an estimate of its original appearance: clean, complete, and technically “better.”</p>
+      <p class="capsule-system-line">RESTORE TO ORIGINAL CONDITION?</p>
+      <p>Restoration initially seems obvious. But before accepting, the child examines the actual blanket: its thinning fabric, frayed edges, discoloration, wrinkles, and worn fibers.</p>
+      <p>He begins to see these marks as evidence of someone’s repeated contact with the object over many years. The reconstruction can reproduce an earlier appearance, but cannot recreate the lived history accumulated in the fabric. Restoring the blanket would alter the traces he is only beginning to recognize.</p>
+      <p>The system asks again:</p>
+      <p class="capsule-system-line">RESTORE TO ORIGINAL CONDITION?</p>
+      <p>He hesitates, then selects:</p>
+      <p class="capsule-system-line">CANCEL.</p>
+      <p>He does not fully understand the owner or their attachment. What changes is his assumption that deterioration should always be corrected.</p>
+      <p>The ending leaves an implicit question:</p>
+      <blockquote class="capsule-story-line"><p>If everything that was lost is replaced, is it still the same object?</p></blockquote>
+    </section>
+
+    <div class="capsule-narrative-premise">
+      <p class="eyebrow">Central idea</p>
+      <p>125 years later, the deterioration the original owner wanted to prevent becomes evidence of their relationship with the blanket.</p>
+    </div>
+  </div>
 </section>
 
 <script src="{{ '/assets/js/capsule-navigation.js' | relative_url }}" defer></script>
