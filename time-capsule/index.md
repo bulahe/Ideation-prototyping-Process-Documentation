@@ -231,6 +231,37 @@ title_accent: Capsule
       </div>
     </div>
   </div>
+  <div class="capsule-prototype-step">
+    <h3>Wrapping back the missing thickness</h3>
+    <div class="capsule-row">
+      <figure>
+        <img class="capsule-photo" src="assets/images/1.jpeg" alt="My folded original blanky laid out with several pieces of fabric for wrapping" loading="lazy">
+        <figcaption>My original blanky and the fabric layers for wrapping it.</figcaption>
+      </figure>
+      <div class="capsule-copy">
+        <p>Seeing both blankets in the same container gave me an idea. I could wrap my original blanky in layers of fabric, adding back some of the thickness it has lost over the years.</p>
+      </div>
+    </div>
+    <div class="capsule-row">
+      <figure>
+        <img class="capsule-photo" src="assets/images/2.jpeg" alt="My blanky wrapped in fabric, with a pale green outer layer" loading="lazy">
+        <figcaption>The blanky wrapped in additional layers.</figcaption>
+      </figure>
+      <div class="capsule-copy">
+        <p>I wrapped the blanky until the bundle was thick enough to sit at roughly the same height in the container as the replacement blanket. The added layers stand in for the material that has gradually worn away.</p>
+      </div>
+    </div>
+    <div class="capsule-row">
+      <figure>
+        <img class="capsule-photo" src="assets/images/3.jpeg" alt="The wrapped blanky filling the inner container" loading="lazy">
+        <figcaption>Trying the wrapped blanky in the same container.</figcaption>
+      </figure>
+      <div class="capsule-copy">
+        <p>Placed in the container, the wrapped bundle gives someone a fuller starting point. As they unwrap it layer by layer, it becomes thinner until they reach my blanky as it is today. I want that gradual change to give a sense of how it has worn down through years of use.</p>
+        <p>The wrapping is an approximation of the missing thickness. Removing it makes that loss something someone can experience through their hands.</p>
+      </div>
+    </div>
+  </div>
 </section>
 
 <section class="capsule-part capsule-part--pending" id="part-3" aria-labelledby="part-3-title">
