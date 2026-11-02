@@ -284,25 +284,92 @@ title_accent: Capsule
       <h3 id="perspective-title">Choose a Perspective</h3>
       <p>The story follows a child around 10–12 years old who encounters the capsule.</p>
       <p>He recognizes the blanket inside, but cannot understand why someone carefully preserved something so ordinary and worn. Having grown up with effortless restoration, he sees deterioration as a problem with an obvious solution.</p>
-      <p>The story opens with his question:</p>
-      <blockquote class="capsule-story-line"><p>“Why didn’t they just replace it?”</p></blockquote>
     </section>
 
-    <section class="capsule-narrative-step" aria-labelledby="interpret-title">
-      <p class="eyebrow">03 / Interpretation</p>
+    <section class="capsule-narrative-step capsule-storyboard" aria-labelledby="interpret-title">
+      <p class="eyebrow">03～04 / Interpretation &amp; storyboard</p>
       <h3 id="interpret-title">Interpret</h3>
-      <p>The child opens the capsule and notices the contrast between its careful packaging and the blanket’s fragile condition.</p>
-      <p>A restoration system scans the blanket and generates an estimate of its original appearance: clean, complete, and technically “better.”</p>
-      <p class="capsule-system-line">RESTORE TO ORIGINAL CONDITION?</p>
-      <p>Restoration initially seems obvious. But before accepting, the child examines the actual blanket: its thinning fabric, frayed edges, discoloration, wrinkles, and worn fibers.</p>
-      <p>He begins to see these marks as evidence of someone’s repeated contact with the object over many years. The reconstruction can reproduce an earlier appearance, but cannot recreate the lived history accumulated in the fabric. Restoring the blanket would alter the traces he is only beginning to recognize.</p>
-      <p>The system asks again:</p>
-      <p class="capsule-system-line">RESTORE TO ORIGINAL CONDITION?</p>
-      <p>He hesitates, then selects:</p>
-      <p class="capsule-system-line">CANCEL.</p>
-      <p>He does not fully understand the owner or their attachment. What changes is his assumption that deterioration should always be corrected.</p>
-      <p>The ending leaves an implicit question:</p>
-      <blockquote class="capsule-story-line"><p>If everything that was lost is replaced, is it still the same object?</p></blockquote>
+      <article class="capsule-storyboard-row" aria-labelledby="story-frame-1">
+        <figure>
+          <img class="capsule-photo" src="assets/images/storyboard-v2/01-no-dialogue-web.jpg" alt="The question: The child encounters a carefully packed bundle. Before he understands why it was kept, his first question is simple:" loading="lazy" width="1536" height="1024">
+        </figure>
+        <div class="capsule-copy">
+          <p class="eyebrow">Frame 01</p>
+          <h4 id="story-frame-1">The question</h4>
+          <p>The child encounters a carefully packed bundle. Before he understands why it was kept, his first question is simple:</p>
+          <blockquote class="capsule-story-line"><p>“Why didn’t they just replace it?”</p></blockquote>
+        </div>
+      </article>
+      <article class="capsule-storyboard-row" aria-labelledby="story-frame-2">
+        <figure>
+          <img class="capsule-photo" src="assets/images/storyboard-v2/03-wood-reference-web.jpg" alt="Unwrapping: He removes the fabric layers one by one. The bundle becomes thinner until he reaches the original blanket. Its fragile condition contrasts with the care taken to wrap it." loading="lazy" width="1536" height="1024">
+        </figure>
+        <div class="capsule-copy">
+          <p class="eyebrow">Frame 02</p>
+          <h4 id="story-frame-2">Unwrapping</h4>
+          <p>He removes the fabric layers one by one. The bundle becomes thinner until he reaches the original blanket. Its fragile condition contrasts with the care taken to wrap it.</p>
+
+        </div>
+      </article>
+      <article class="capsule-storyboard-row" aria-labelledby="story-frame-3">
+        <figure>
+          <img class="capsule-photo" src="assets/images/storyboard-v2/04-reference-web.jpg" alt="The restoration preview: A restoration system scans the blanket and estimates its original appearance. The floating preview shows it clean, complete, and technically “better.” Restoring it seems like the obvious choice." loading="lazy" width="1536" height="1024">
+        </figure>
+        <div class="capsule-copy">
+          <p class="eyebrow">Frame 03</p>
+          <h4 id="story-frame-3">The restoration preview</h4>
+          <p>A restoration system scans the blanket and estimates its original appearance. The floating preview shows it clean, complete, and technically “better.” Restoring it seems like the obvious choice.</p>
+          <p class="capsule-system-line">RESTORE TO ORIGINAL CONDITION?</p>
+        </div>
+      </article>
+      <article class="capsule-storyboard-row" aria-labelledby="story-frame-4">
+        <figure>
+          <img class="capsule-photo" src="assets/images/storyboard-v2/05-wood-reference-web.jpg" alt="A pause: Before confirming, he looks away from the preview and back at the real blanket. He pauses over its thinning fabric, damaged edges, and uneven surface." loading="lazy" width="1536" height="1024">
+        </figure>
+        <div class="capsule-copy">
+          <p class="eyebrow">Frame 04</p>
+          <h4 id="story-frame-4">A pause</h4>
+          <p>Before confirming, he looks away from the preview and back at the real blanket. He pauses over its thinning fabric, damaged edges, and uneven surface.</p>
+
+        </div>
+      </article>
+      <article class="capsule-storyboard-row" aria-labelledby="story-frame-5">
+        <figure>
+          <img class="capsule-photo" src="assets/images/storyboard-v2/06-reference-web.jpg" alt="Looking closely: As he gently holds the fabric, he begins to see the worn areas as traces of repeated contact over many years. The system can reconstruct an earlier appearance, but it cannot reproduce the history accumulated in these fibers." loading="lazy" width="1536" height="1024">
+        </figure>
+        <div class="capsule-copy">
+          <p class="eyebrow">Frame 05</p>
+          <h4 id="story-frame-5">Looking closely</h4>
+          <p>As he gently holds the fabric, he begins to see the worn areas as traces of repeated contact over many years. The system can reconstruct an earlier appearance, but it cannot reproduce the history accumulated in these fibers.</p>
+
+        </div>
+      </article>
+      <article class="capsule-storyboard-row" aria-labelledby="story-frame-6">
+        <figure>
+          <img class="capsule-photo" src="assets/images/storyboard-v2/07-floating-ui-wood-reference-web.jpg" alt="Cancel: The system asks again. This time, he hesitates and selects CANCEL. Restoring the blanket would change the very traces he has begun to notice." loading="lazy" width="1536" height="1024">
+        </figure>
+        <div class="capsule-copy">
+          <p class="eyebrow">Frame 06</p>
+          <h4 id="story-frame-6">Cancel</h4>
+          <p>The system asks again. This time, he hesitates and selects CANCEL. Restoring the blanket would change the very traces he has begun to notice.</p>
+          <p class="capsule-system-line">RESTORE TO ORIGINAL CONDITION? → CANCEL.</p>
+        </div>
+      </article>
+      <article class="capsule-storyboard-row" aria-labelledby="story-frame-7">
+        <figure>
+          <img class="capsule-photo" src="assets/images/storyboard-v2/08-rewrapped-wood-web.jpg" alt="Putting it back: He wraps the blanket in its layers again and returns the bundle to the container. He does not fully understand the owner, but he no longer assumes that every sign of wear should be removed." loading="lazy" width="1536" height="1024">
+        </figure>
+        <div class="capsule-copy">
+          <p class="eyebrow">Frame 07</p>
+          <h4 id="story-frame-7">Putting it back</h4>
+          <p>He wraps the blanket in its layers again and returns the bundle to the container. He does not fully understand the owner, but he no longer assumes that every sign of wear should be removed.</p>
+
+        </div>
+      </article>
+      <div class="capsule-storyboard-ending">
+        <p>The ending leaves an implicit question:</p>
+        <blockquote class="capsule-story-line"><p>If everything that was lost is replaced, is it still the same object?</p></blockquote>
+      </div>
     </section>
 
     <div class="capsule-narrative-premise">

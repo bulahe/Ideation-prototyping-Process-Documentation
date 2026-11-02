@@ -412,3 +412,19 @@ h1 { font-size: clamp(36px, 6vw, 64px); letter-spacing: -.04em; margin: 0; line-
 .project-time-capsule .capsule-story-line p { margin: 0; }
 .project-time-capsule .capsule-system-line { margin: 28px 0; padding: 16px 0; border-block: 1px solid #d9dacf; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 12px; letter-spacing: .1em; color: #606c46; }
 .project-time-capsule .capsule-narrative-premise { margin-top: 48px; padding-top: 28px; border-top: 1px solid #d9dacf; }
+
+/* Story frames pair each image with its interpretation. */
+.project-time-capsule #part-3 .capsule-narrative { max-width: none; }
+.project-time-capsule #part-3 .capsule-narrative-step:not(.capsule-storyboard),
+.project-time-capsule #part-3 .capsule-narrative-premise,
+.project-time-capsule .capsule-storyboard-ending { max-width: 720px; margin-inline: auto; }
+.project-time-capsule .capsule-storyboard-row { display: grid; grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr); gap: 48px; align-items: center; margin-top: 48px; }
+.project-time-capsule .capsule-storyboard-row + .capsule-storyboard-row { margin-top: 72px; }
+.project-time-capsule .capsule-storyboard-row .capsule-photo { max-height: none; }
+.project-time-capsule .capsule-storyboard-row h4 { margin: 0 0 18px; font-family: Georgia, "Times New Roman", serif; font-size: 25px; font-weight: 400; color: #262721; }
+.project-time-capsule .capsule-storyboard-row .capsule-story-line { font-size: 22px; }
+.project-time-capsule .capsule-storyboard-ending { margin-top: 64px; }
+@media (max-width: 800px) {
+  .project-time-capsule .capsule-storyboard-row { grid-template-columns: 1fr; gap: 24px; }
+  .project-time-capsule .capsule-storyboard-row + .capsule-storyboard-row { margin-top: 56px; }
+}
