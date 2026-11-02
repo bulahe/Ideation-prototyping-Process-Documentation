@@ -335,7 +335,7 @@ title_accent: Capsule
       </article>
       <article class="capsule-storyboard-row" aria-labelledby="story-frame-5">
         <figure>
-          <img class="capsule-photo" src="assets/images/storyboard-v2/06-reference-web.jpg" alt="Looking closely: As he gently holds the fabric, he begins to see the worn areas as traces of repeated contact over many years. The system can reconstruct an earlier appearance, but it cannot reproduce the history accumulated in these fibers." loading="lazy" width="1536" height="1024">
+          <img class="capsule-photo" src="assets/images/storyboard-v2/06-corner-two-hands-web.jpg" alt="Looking closely: As he gently holds the fabric, he begins to see the worn areas as traces of repeated contact over many years. The system can reconstruct an earlier appearance, but it cannot reproduce the history accumulated in these fibers." loading="lazy" width="1536" height="1024">
         </figure>
         <div class="capsule-copy">
           <p class="eyebrow">Frame 05</p>
