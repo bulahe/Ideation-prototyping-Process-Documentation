@@ -428,3 +428,7 @@ h1 { font-size: clamp(36px, 6vw, 64px); letter-spacing: -.04em; margin: 0; line-
   .project-time-capsule .capsule-storyboard-row { grid-template-columns: 1fr; gap: 24px; }
   .project-time-capsule .capsule-storyboard-row + .capsule-storyboard-row { margin-top: 56px; }
 }
+
+/* The film stays responsive within the narrative reading column. */
+.project-time-capsule .capsule-film { display: block; width: 100%; aspect-ratio: 16 / 9; border: 0; }
+.project-time-capsule .capsule-film-link { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 13px; margin-top: 12px; }

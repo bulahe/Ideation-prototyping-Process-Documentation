@@ -368,6 +368,24 @@ title_accent: Capsule
       </article>
     </section>
 
+
+    <section class="capsule-narrative-step capsule-visual-narrative" aria-labelledby="visual-narrative-title">
+      <p class="eyebrow">05 / Visual narrative</p>
+      <h3 id="visual-narrative-title">Visual Narrative</h3>
+      <iframe class="capsule-film" src="https://www.youtube-nocookie.com/embed/lRNV9ssWtvU" title="Time Capsule — Visual Narrative" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p class="capsule-film-link"><a href="https://youtu.be/lRNV9ssWtvU" target="_blank" rel="noopener noreferrer">Watch on YouTube ↗</a></p>
+    </section>
+
+    <section class="capsule-narrative-step" aria-labelledby="reflection-title">
+      <p class="eyebrow">06 / Reflection</p>
+      <h3 id="reflection-title">Reflection</h3>
+      <p>I spent a lot of this project trying to find a way to express my attachment to my blanky without making it feel more dramatic than it is. The most useful starting point was putting both blankets into the same container. I already knew mine felt thinner, but seeing the difference gave me something concrete to work with.</p>
+      <p>Wrapping it in layers grew out of that comparison. The added fabric roughly fills the space that has been lost through wear. Removing those layers lets another person notice the change in thickness through their own actions. It does not recreate the blanket’s past exactly, but it gives them a way to encounter its present condition.</p>
+      <p>Imagining the little boy’s response helped me look at the same object from outside my own attachment. He does not have my memories, so replacing it initially makes sense to him. I wanted his understanding to shift only a little: he still does not know its whole story, but he starts to notice that the worn areas tell him something about how it was used.</p>
+      <p>Making the illustrations also reminded me how much specific details matter. Some of the generated damage looked unlike my actual blanket, so I used photographs to guide the revisions. Keeping the worn corner, the container, and the wrapping consistent mattered because these are the things the story asks the viewer to look at closely.</p>
+      <p>I still want to use my blanky, even though using it wears it out. This project has not resolved that feeling. What it has given me is a way to share a little of it through the packaging, the unwrapping, and the boy’s decision to put it back.</p>
+    </section>
+
   </div>
 </section>
 
