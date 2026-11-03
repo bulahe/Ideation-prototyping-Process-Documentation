@@ -366,16 +366,8 @@ title_accent: Capsule
 
         </div>
       </article>
-      <div class="capsule-storyboard-ending">
-        <p>The ending leaves an implicit question:</p>
-        <blockquote class="capsule-story-line"><p>If everything that was lost is replaced, is it still the same object?</p></blockquote>
-      </div>
     </section>
 
-    <div class="capsule-narrative-premise">
-      <p class="eyebrow">Central idea</p>
-      <p>125 years later, the deterioration the original owner wanted to prevent becomes evidence of their relationship with the blanket.</p>
-    </div>
   </div>
 </section>
 
