@@ -40,7 +40,7 @@ title_accent: Capsule
 
   <div class="capsule-row">
     <figure class="capsule-visual">
-      <img class="capsule-photo" src="assets/images/young.JPG" alt="A childhood photograph of me with my blanky" loading="lazy">
+      <img class="capsule-photo" src="assets/images/young.JPG" alt="A childhood photograph of me with my blanky" loading="lazy" width="1280" height="960">
     </figure>
     <div class="capsule-copy">
       <p>My mom tells me I was wrapped in this blanket when I was born. I wish there were more photos of us together from those early years, but this is one of the few my mom could find.</p>
@@ -50,11 +50,11 @@ title_accent: Capsule
   <div class="capsule-blanky-overview">
     <div class="capsule-photo-pair">
       <figure>
-        <img class="capsule-photo" src="assets/images/bk1_full_front.jpg" alt="The front of my original blanky today" loading="lazy">
+        <img class="capsule-photo" src="assets/images/bk1_full_front.jpg" alt="The front of my original blanky today" loading="lazy" width="4284" height="5712">
         <figcaption>Front</figcaption>
       </figure>
       <figure>
-        <img class="capsule-photo" src="assets/images/bk1_full_back.jpg" alt="The back of my original blanky today" loading="lazy">
+        <img class="capsule-photo" src="assets/images/bk1_full_back.jpg" alt="The back of my original blanky today" loading="lazy" width="4284" height="5712">
         <figcaption>Back</figcaption>
       </figure>
     </div>
@@ -66,11 +66,11 @@ title_accent: Capsule
   <div class="capsule-replacement-overview">
     <div class="capsule-photo-pair">
       <figure>
-        <img class="capsule-photo" src="assets/images/bk2_full_front.jpg" alt="The front of the replacement blanket" loading="lazy">
+        <img class="capsule-photo" src="assets/images/bk2_full_front.jpg" alt="The front of the replacement blanket" loading="lazy" width="4284" height="5712">
         <figcaption>Front</figcaption>
       </figure>
       <figure>
-        <img class="capsule-photo" src="assets/images/bk2_full_back.jpg" alt="The back of the replacement blanket" loading="lazy">
+        <img class="capsule-photo" src="assets/images/bk2_full_back.jpg" alt="The back of the replacement blanket" loading="lazy" width="4284" height="5712">
         <figcaption>Back</figcaption>
       </figure>
     </div>
@@ -85,7 +85,7 @@ title_accent: Capsule
     <div class="capsule-touch-layout">
     <div class="capsule-touch-images">
       <figure>
-        <img class="capsule-photo" src="assets/images/compare.png" alt="Detail comparison of the original and replacement blankets" loading="lazy">
+        <img class="capsule-photo" src="assets/images/compare.png" alt="Detail comparison of the original and replacement blankets" loading="lazy" width="1303" height="964">
       </figure>
     </div>
     <div class="capsule-copy">
@@ -120,11 +120,11 @@ title_accent: Capsule
   <div class="capsule-keyboard-history">
     <div class="capsule-photo-pair">
       <figure>
-        <img class="capsule-photo" src="assets/images/highschool_kb.JPG" alt="My small keyboard beside a laptop during high school" loading="lazy">
+        <img class="capsule-photo" src="assets/images/highschool_kb.JPG" alt="My small keyboard beside a laptop during high school" loading="lazy" width="4032" height="3024">
         <figcaption>My keyboard in high school</figcaption>
       </figure>
       <figure>
-        <img class="capsule-photo" src="assets/images/highschool_kb_now.JPG" alt="The same high school keyboard today, with yellowed keys" loading="lazy">
+        <img class="capsule-photo" src="assets/images/highschool_kb_now.JPG" alt="The same high school keyboard today, with yellowed keys" loading="lazy" width="4744" height="2756">
         <figcaption>The same keyboard today</figcaption>
       </figure>
     </div>
@@ -136,11 +136,11 @@ title_accent: Capsule
   <div class="capsule-keyboard-history">
     <div class="capsule-photo-pair">
       <figure>
-        <img class="capsule-photo" src="assets/images/college_kb1.JPG" alt="A keyboard at my desk during college" loading="lazy">
+        <img class="capsule-photo" src="assets/images/college_kb1.JPG" alt="A keyboard at my desk during college" loading="lazy" width="4032" height="3024">
         <figcaption>A keyboard I used in college</figcaption>
       </figure>
       <figure>
-        <img class="capsule-photo" src="assets/images/college_kb2.jpg" alt="My previous keyboard in a screenshot from a rehearsal video" loading="lazy">
+        <img class="capsule-photo" src="assets/images/college_kb2.jpg" alt="My previous keyboard in a screenshot from a rehearsal video" loading="lazy" width="2108" height="1206">
         <figcaption>My previous keyboard / Rehearsal video still</figcaption>
       </figure>
     </div>
@@ -151,7 +151,7 @@ title_accent: Capsule
 
   <div class="capsule-row capsule-keyboard-current">
     <figure>
-      <img class="capsule-photo" src="assets/images/kb_now.jpg" alt="My current digital piano at home with sheet music on its stand" loading="lazy">
+      <img class="capsule-photo" src="assets/images/kb_now.jpg" alt="My current digital piano at home with sheet music on its stand" loading="lazy" width="4284" height="5712">
       <figcaption>My keyboard now</figcaption>
     </figure>
     <div class="capsule-copy">
@@ -177,7 +177,7 @@ title_accent: Capsule
     <h3>Choosing the inner container</h3>
     <div class="capsule-row">
       <figure>
-        <img class="capsule-photo" src="assets/images/empty-storage-box.jpeg" alt="The empty lidless storage box I took with me to look for an outer layer" loading="lazy">
+        <img class="capsule-photo" src="assets/images/empty-storage-box.jpeg" alt="The empty lidless storage box I took with me to look for an outer layer" loading="lazy" width="4284" height="5712">
         <figcaption>The lidless storage box I started with.</figcaption>
       </figure>
       <div class="capsule-copy">
@@ -191,11 +191,11 @@ title_accent: Capsule
     <h3>Seeing the difference in thickness</h3>
     <div class="capsule-photo-pair capsule-prototype-comparison">
       <figure>
-        <img class="capsule-photo" src="assets/images/replacement-in-box.jpeg" alt="The thicker replacement blanket folded in the storage box" loading="lazy">
+        <img class="capsule-photo" src="assets/images/replacement-in-box.jpeg" alt="The thicker replacement blanket folded in the storage box" loading="lazy" width="5712" height="4284">
         <figcaption>The replacement blanket in the box.</figcaption>
       </figure>
       <figure>
-        <img class="capsule-photo" src="assets/images/original-in-box.jpeg" alt="My thinner original blanky folded in the same storage box, leaving more space above it" loading="lazy">
+        <img class="capsule-photo" src="assets/images/original-in-box.jpeg" alt="My thinner original blanky folded in the same storage box, leaving more space above it" loading="lazy" width="5712" height="4284">
         <figcaption>My original blanky in the same box.</figcaption>
       </figure>
     </div>
@@ -207,7 +207,7 @@ title_accent: Capsule
     <h3>Trying the outer layer</h3>
     <div class="capsule-row">
       <figure>
-        <img class="capsule-photo" src="assets/images/capsule-packaging.jpeg" alt="My original blanky in a storage box fitted inside a clear zippered bedsheet package" loading="lazy">
+        <img class="capsule-photo" src="assets/images/capsule-packaging.jpeg" alt="My original blanky in a storage box fitted inside a clear zippered bedsheet package" loading="lazy" width="4284" height="5712">
         <figcaption>Trying the storage box inside the bedsheet packaging.</figcaption>
       </figure>
       <div class="capsule-copy">
@@ -223,7 +223,7 @@ title_accent: Capsule
     <h3>Marking its height</h3>
     <div class="capsule-row">
       <figure>
-        <img class="capsule-photo" src="assets/images/dated-height-mark.jpeg" alt="A handwritten date, 2026.10.28, and a height mark on the side of the container" loading="lazy">
+        <img class="capsule-photo" src="assets/images/dated-height-mark.jpeg" alt="A handwritten date, 2026.10.28, and a height mark on the side of the container" loading="lazy" width="360" height="480">
         <figcaption>A height reference dated October 28, 2026.</figcaption>
       </figure>
       <div class="capsule-copy">
@@ -235,7 +235,7 @@ title_accent: Capsule
     <h3>Wrapping back the missing thickness</h3>
     <div class="capsule-row">
       <figure>
-        <img class="capsule-photo" src="assets/images/1.jpeg" alt="My folded original blanky laid out with several pieces of fabric for wrapping" loading="lazy">
+        <img class="capsule-photo" src="assets/images/1.jpeg" alt="My folded original blanky laid out with several pieces of fabric for wrapping" loading="lazy" width="5712" height="4284">
         <figcaption>My original blanky and the fabric layers for wrapping it.</figcaption>
       </figure>
       <div class="capsule-copy">
@@ -244,7 +244,7 @@ title_accent: Capsule
     </div>
     <div class="capsule-row">
       <figure>
-        <img class="capsule-photo" src="assets/images/2.jpeg" alt="My blanky wrapped in fabric, with a pale green outer layer" loading="lazy">
+        <img class="capsule-photo" src="assets/images/2.jpeg" alt="My blanky wrapped in fabric, with a pale green outer layer" loading="lazy" width="5712" height="4284">
         <figcaption>The blanky wrapped in additional layers.</figcaption>
       </figure>
       <div class="capsule-copy">
@@ -253,7 +253,7 @@ title_accent: Capsule
     </div>
     <div class="capsule-row">
       <figure>
-        <img class="capsule-photo" src="assets/images/3.jpeg" alt="The wrapped blanky filling the inner container" loading="lazy">
+        <img class="capsule-photo" src="assets/images/3.jpeg" alt="The wrapped blanky filling the inner container" loading="lazy" width="5712" height="4284">
         <figcaption>Trying the wrapped blanky in the same container.</figcaption>
       </figure>
       <div class="capsule-copy">
