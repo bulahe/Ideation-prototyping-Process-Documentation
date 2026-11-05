@@ -401,8 +401,8 @@ h1 { font-size: clamp(36px, 6vw, 64px); letter-spacing: -.04em; margin: 0; line-
   .project-time-capsule .capsule-prototype-comparison { grid-template-columns: 1fr; }
 }
 
-.home-project-dates { position: relative; }
-.home-project-extra-dates { position: absolute; top: calc(100% + 2px); left: 0; display: grid; gap: 2px; }
+.home-project-dates { display: inline-grid; gap: 2px; }
+.home-project-extra-dates { display: grid; gap: 2px; }
 
 /* Part 3: a reading column for the narrative foundation. */
 .project-time-capsule .capsule-narrative { max-width: 720px; margin-inline: auto; }

@@ -22,7 +22,6 @@ home: true
     {% endif %}
     <div>
       <h2>{{ project.title | escape }}</h2>
-      <p>{{ project.description | escape }}</p>
     </div>
     <span class="home-project-arrow" aria-hidden="true">↗</span>
   </a>

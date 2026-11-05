@@ -6,6 +6,7 @@ project_order: 6
 project_date: 2026-10-21
 project_additional_dates:
   - 2026-10-28
+  - 2026-11-04
 nav_title: Time Capsule
 description: A time capsule in three parts — objects, design, and what comes next.
 week: Parts 1–3
